@@ -154,9 +154,9 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,755 | 🐛 455 | 🌐 TypeScript | 📅 2026-08-12 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,266 | 🐛 83 | 🌐 Shell | 📅 2026-08-12 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 45 | 🌐 Go | 📅 2026-08-12 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,753 | 🐛 455 | 🌐 TypeScript | 📅 2026-08-12 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,265 | 🐛 83 | 🌐 Shell | 📅 2026-08-13 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 45 | 🌐 Go | 📅 2026-08-13 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 10 | 🐛 36 | 🌐 Go | 📅 2026-08-12 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
