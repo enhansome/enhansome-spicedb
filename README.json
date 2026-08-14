@@ -24,7 +24,7 @@
             "last_commit": "2026-07-25T02:06:46Z",
             "owner": "authzed",
             "repo": "authzed-go",
-            "stars": 103
+            "stars": 104
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-05-26T17:14:05Z",
             "owner": "authzed",
             "repo": "authzed-node",
-            "stars": 62
+            "stars": 61
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-12T23:33:32Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13753
+            "stars": 13752
           }
         },
         {
@@ -641,10 +641,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T14:30:44Z",
+            "last_commit": "2026-08-14T14:25:08Z",
             "owner": "wolfi-dev",
             "repo": "os",
-            "stars": 1265
+            "stars": 1266
           }
         },
         {
@@ -655,7 +655,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T12:25:56Z",
+            "last_commit": "2026-08-14T10:41:42Z",
             "owner": "raystack",
             "repo": "frontier",
             "stars": 343
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:35:05.128Z",
+    "last_updated": "2026-08-14T14:29:21.037Z",
     "original_repository": "authzed/awesome-spicedb",
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
     "enhanced_repository": "enhansome/enhansome-spicedb",
