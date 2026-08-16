@@ -155,7 +155,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Third-party Integrations
 
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,752 | 🐛 455 | 🌐 TypeScript | 📅 2026-08-12 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,268 | 🐛 84 | 🌐 Shell | 📅 2026-08-14 - Container build toolchain that packages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,268 | 🐛 84 | 🌐 Shell | 📅 2026-08-15 - Container build toolchain that packages SpiceDB
 * [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 43 | 🌐 Go | 📅 2026-08-14 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 10 | 🐛 36 | 🌐 Go | 📅 2026-08-12 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

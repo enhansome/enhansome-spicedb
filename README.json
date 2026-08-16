@@ -641,7 +641,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-14T14:25:08Z",
+            "last_commit": "2026-08-15T14:07:12Z",
             "owner": "wolfi-dev",
             "repo": "os",
             "stars": 1268
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:48:48.239Z",
+    "last_updated": "2026-08-16T13:49:41.762Z",
     "original_repository": "authzed/awesome-spicedb",
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
     "enhanced_repository": "enhansome/enhansome-spicedb",
