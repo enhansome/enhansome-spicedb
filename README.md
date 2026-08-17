@@ -91,7 +91,7 @@ Looking to contribute? See [CONTRIBUTING.md].
   * [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-11 - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 44 | 🌐 TypeScript | 📅 2026-05-26
 * JVM
   * [oviva-ag/spicegen](https://github.com/oviva-ag/spicegen) ⭐ 12 | 🐛 3 | 🌐 Java | 📅 2026-07-01 - type-safe client generator from a schema
-  * [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) ⭐ 8 | 🐛 10 | 🌐 Java | 📅 2026-08-07 - gRPC client integration for Quarkus
+  * [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) ⭐ 8 | 🐛 10 | 🌐 Java | 📅 2026-08-17 - gRPC client integration for Quarkus
 * PHP
   * [alsbury/chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2025-05-02 - HTTP client library in PHP
   * [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-07-17 - HTTP client library in PHP
@@ -154,10 +154,10 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,752 | 🐛 455 | 🌐 TypeScript | 📅 2026-08-12 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,268 | 🐛 84 | 🌐 Shell | 📅 2026-08-15 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 43 | 🌐 Go | 📅 2026-08-14 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
-* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 10 | 🐛 36 | 🌐 Go | 📅 2026-08-12 - The default authorization strategy for Infratographer leverages SpiceDB
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,750 | 🐛 456 | 🌐 TypeScript | 📅 2026-08-17 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,269 | 🐛 84 | 🌐 Shell | 📅 2026-08-16 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 48 | 🌐 Go | 📅 2026-08-17 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 10 | 🐛 36 | 🌐 Go | 📅 2026-08-16 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
 * [Redpanda connector - spicedb\_watch](https://docs.redpanda.com/redpanda-connect/components/inputs/spicedb_watch/) - Consumes messages from the Watch API of a SpiceDB instance. This input is useful if you have downstream applications that need to react to real-time changes in data managed by SpiceDB.
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

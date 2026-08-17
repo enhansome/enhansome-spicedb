@@ -242,7 +242,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-07T13:33:27Z",
+                "last_commit": "2026-08-17T13:33:05Z",
                 "owner": "quarkiverse",
                 "repo": "quarkus-authzed-client",
                 "stars": 8
@@ -627,10 +627,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:33:32Z",
+            "last_commit": "2026-08-17T05:07:39Z",
             "owner": "gitpod-io",
             "repo": "gitpod",
-            "stars": 13752
+            "stars": 13750
           }
         },
         {
@@ -641,10 +641,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-15T14:07:12Z",
+            "last_commit": "2026-08-16T14:07:30Z",
             "owner": "wolfi-dev",
             "repo": "os",
-            "stars": 1268
+            "stars": 1269
           }
         },
         {
@@ -655,7 +655,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T10:41:42Z",
+            "last_commit": "2026-08-17T08:30:38Z",
             "owner": "raystack",
             "repo": "frontier",
             "stars": 343
@@ -669,7 +669,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T14:12:27Z",
+            "last_commit": "2026-08-16T20:33:35Z",
             "owner": "infratographer",
             "repo": "permissions-api",
             "stars": 10
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:49:41.762Z",
+    "last_updated": "2026-08-17T13:58:01.963Z",
     "original_repository": "authzed/awesome-spicedb",
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
     "enhanced_repository": "enhansome/enhansome-spicedb",
