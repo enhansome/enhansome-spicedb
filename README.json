@@ -242,7 +242,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-17T13:33:05Z",
+                "last_commit": "2026-08-17T23:51:25Z",
                 "owner": "quarkiverse",
                 "repo": "quarkus-authzed-client",
                 "stars": 8
@@ -641,7 +641,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-16T14:07:30Z",
+            "last_commit": "2026-08-17T14:10:21Z",
             "owner": "wolfi-dev",
             "repo": "os",
             "stars": 1269
@@ -655,7 +655,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T08:30:38Z",
+            "last_commit": "2026-08-18T10:27:29Z",
             "owner": "raystack",
             "repo": "frontier",
             "stars": 343
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:58:01.963Z",
+    "last_updated": "2026-08-18T14:02:05.884Z",
     "original_repository": "authzed/awesome-spicedb",
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
     "enhanced_repository": "enhansome/enhansome-spicedb",
