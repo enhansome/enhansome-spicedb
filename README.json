@@ -1,547 +1,580 @@
 {
   "items": [
     {
-      "description": "Posts written about SpiceDB usage and development",
-      "items": [],
-      "title": "Blog Posts"
-    },
-    {
       "description": "Clients for interacting with SpiceDB",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "authzed-go",
+              "description": "Official client library for Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332819751,
+                "language": "Go",
+                "last_commit": "2026-07-25T02:06:46Z",
+                "owner": "authzed",
+                "repo": "authzed-go",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "authzed-node",
+              "description": "Official client library for NodeJS in JavaScript/TypeScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342727822,
+                "language": "TypeScript",
+                "last_commit": "2026-05-26T17:14:05Z",
+                "owner": "authzed",
+                "repo": "authzed-node",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "authzed-py",
+              "description": "Official client library for Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333169360,
+                "language": "Python",
+                "last_commit": "2026-07-14T14:03:35Z",
+                "owner": "authzed",
+                "repo": "authzed-py",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "authzed-java",
+              "description": "Official client library for JVM languages in Java",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 386788697,
+                "language": "Java",
+                "last_commit": "2026-06-02T17:26:58Z",
+                "owner": "authzed",
+                "repo": "authzed-java",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "authzed-rb",
+              "description": "Official client library for Ruby",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337195647,
+                "language": "Ruby",
+                "last_commit": "2026-07-20T20:33:18Z",
+                "owner": "authzed",
+                "repo": "authzed-rb",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "authzed-dotnet",
+              "description": "Official client library for Dotnet/CSharp",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 829137517,
+                "language": "C#",
+                "last_commit": "2026-08-01T09:35:31Z",
+                "owner": "authzed",
+                "repo": "authzed-dotnet",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Golang",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "danhtran94/authzed-codegen",
+                  "description": "Type-Safe stubs code generator for your AuthZed schemas",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 955166312,
+                    "language": "Go",
+                    "last_commit": "2026-05-10T07:19:42Z",
+                    "owner": "danhtran94",
+                    "repo": "authzed-codegen",
+                    "stars": 6
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": ".NET",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "jalexsocial/spicedb",
+                  "description": "gRPC client library in C#",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 600147669,
+                    "language": "C#",
+                    "last_commit": "2025-09-12T12:27:06Z",
+                    "owner": "JalexSocial",
+                    "repo": "SpiceDb",
+                    "stars": 24
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "BEAM",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "goodhamgupta/authzed-ex",
+                  "description": "gRPC client library in Elixir",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 509099787,
+                    "language": "Elixir",
+                    "last_commit": "2026-04-08T07:01:19Z",
+                    "owner": "goodhamgupta",
+                    "repo": "authzed_ex",
+                    "stars": 23
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "JavaScript/Typescript",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "yahiaosama/authz-schema-sync-check",
+                  "description": "tool to generate Python and Node type definitions from SpiceDB Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 971274299,
+                    "language": "Python",
+                    "last_commit": "2026-01-26T10:28:12Z",
+                    "owner": "yahiaosama",
+                    "repo": "authz-schema-sync-check",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SchoolAI/spicedb-zed-schema-parser",
+                  "description": "A tool to generate schema-aware typescript types and a type-safe wrapper for authzed-node",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1011335221,
+                    "language": "TypeScript",
+                    "last_commit": "2026-05-19T18:42:57Z",
+                    "owner": "SchoolAI",
+                    "repo": "spicedb-zed-schema-parser",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "quizizz/spicedb-wrapper",
+                  "description": "Lightweight client wrapper of authzed-node",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 550663597,
+                    "language": "TypeScript",
+                    "last_commit": "2026-02-11T10:39:19Z",
+                    "owner": "quizizz",
+                    "repo": "spicedb-wrapper",
+                    "stars": 0
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "JVM",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "oviva-ag/spicegen",
+                  "description": "type-safe client generator from a schema",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 800899078,
+                    "language": "Java",
+                    "last_commit": "2026-07-01T12:39:45Z",
+                    "owner": "oviva-ag",
+                    "repo": "spicegen",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "quarkiverse/quarkus-authzed-client",
+                  "description": "gRPC client integration for Quarkus",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 539140635,
+                    "language": "Java",
+                    "last_commit": "2026-08-17T23:51:25Z",
+                    "owner": "quarkiverse",
+                    "repo": "quarkus-authzed-client",
+                    "stars": 8
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "PHP",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "alsbury/chiphpotle-rest",
+                  "description": "HTTP client library in PHP",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 537116781,
+                    "language": "PHP",
+                    "last_commit": "2025-05-02T15:14:15Z",
+                    "owner": "alsbury",
+                    "repo": "chiphpotle-rest",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "linkorb/spicedb-php",
+                  "description": "HTTP client library in PHP",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 538933478,
+                    "language": "PHP",
+                    "last_commit": "2026-07-17T12:38:57Z",
+                    "owner": "linkorb",
+                    "repo": "spicedb-php",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "linkorb/spicedb-bundle",
+                  "description": "SpiceDB client Symfony Bundle",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 615023240,
+                    "language": "PHP",
+                    "last_commit": "2025-06-08T19:38:21Z",
+                    "owner": "linkorb",
+                    "repo": "spicedb-bundle",
+                    "stars": 0
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Python",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "yahiaosama/authz-schema-sync-check",
+                  "description": "tool to generate Python and Node type definitions from SpiceDB Schema.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 971274299,
+                    "language": "Python",
+                    "last_commit": "2026-01-26T10:28:12Z",
+                    "owner": "yahiaosama",
+                    "repo": "authz-schema-sync-check",
+                    "stars": 7
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Rust",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Lur1an/spicedb-rust",
+                  "description": "Opinionated SpiceDB gRPC client library in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 827870457,
+                    "language": "Rust",
+                    "last_commit": "2024-12-01T14:14:01Z",
+                    "owner": "Lur1an",
+                    "repo": "spicedb-rust",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "bitskico/authzed-rs",
+                  "description": "gRPC client library in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 463811484,
+                    "language": "Shell",
+                    "last_commit": "2022-02-26T18:12:43Z",
+                    "owner": "BitskiCo",
+                    "repo": "authzed-rs",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "structionsite/spicedb-client-rust",
+                  "description": "gRPC client library in Rust",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 468101133,
+                    "language": "Rust",
+                    "last_commit": "2023-09-08T13:48:16Z",
+                    "owner": "StructionSite",
+                    "repo": "spicedb-client-rust",
+                    "stars": 1
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Third-party Libraries"
+        }
+      ],
       "title": "Clients"
     },
     {
-      "description": "",
+      "description": "Tools that help enhance the experience of using SpiceDB",
       "items": [
         {
-          "node_type": "item",
-          "title": "authzed-go",
-          "description": "Official client library for Go",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-25T02:06:46Z",
-            "owner": "authzed",
-            "repo": "authzed-go",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "authzed-node",
-          "description": "Official client library for NodeJS in JavaScript/TypeScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-26T17:14:05Z",
-            "owner": "authzed",
-            "repo": "authzed-node",
-            "stars": 61
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "authzed-py",
-          "description": "Official client library for Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-14T14:03:35Z",
-            "owner": "authzed",
-            "repo": "authzed-py",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "authzed-java",
-          "description": "Official client library for JVM languages in Java",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-02T17:26:58Z",
-            "owner": "authzed",
-            "repo": "authzed-java",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "authzed-rb",
-          "description": "Official client library for Ruby",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-07-20T20:33:18Z",
-            "owner": "authzed",
-            "repo": "authzed-rb",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "authzed-dotnet",
-          "description": "Official client library for Dotnet/CSharp",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-01T09:35:31Z",
-            "owner": "authzed",
-            "repo": "authzed-dotnet",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Official Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "group",
-          "title": "Golang",
-          "description": null,
           "children": [
             {
               "node_type": "item",
-              "title": "danhtran94/authzed-codegen",
-              "description": "Type-Safe stubs code generator for your AuthZed schemas",
+              "title": "zed",
+              "description": "Official command-line tool for managing SpiceDB",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 357107303,
                 "language": "Go",
-                "last_commit": "2026-05-10T07:19:42Z",
-                "owner": "danhtran94",
-                "repo": "authzed-codegen",
-                "stars": 6
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": ".NET",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "jalexsocial/spicedb",
-              "description": "gRPC client library in C#",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "C#",
-                "last_commit": "2025-09-12T12:27:06Z",
-                "owner": "JalexSocial",
-                "repo": "SpiceDb",
-                "stars": 24
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "BEAM",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "goodhamgupta/authzed-ex",
-              "description": "gRPC client library in Elixir",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Elixir",
-                "last_commit": "2026-04-08T07:01:19Z",
-                "owner": "goodhamgupta",
-                "repo": "authzed_ex",
-                "stars": 23
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "JavaScript/Typescript",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "yahiaosama/authz-schema-sync-check",
-              "description": "tool to generate Python and Node type definitions from SpiceDB Schema.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-01-26T10:28:12Z",
-                "owner": "yahiaosama",
-                "repo": "authz-schema-sync-check",
-                "stars": 7
+                "last_commit": "2026-08-07T18:57:51Z",
+                "owner": "authzed",
+                "repo": "zed",
+                "stars": 163
               }
             },
             {
               "node_type": "item",
-              "title": "SchoolAI/spicedb-zed-schema-parser",
-              "description": "A tool to generate schema-aware typescript types and a type-safe wrapper for authzed-node",
+              "title": "SpiceDB Operator",
+              "description": "Official Kubernetes Operator for running SpiceDB",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-05-19T18:42:57Z",
-                "owner": "SchoolAI",
-                "repo": "spicedb-zed-schema-parser",
-                "stars": 6
+                "id": 491227630,
+                "language": "Go",
+                "last_commit": "2026-07-22T17:55:13Z",
+                "owner": "authzed",
+                "repo": "spicedb-operator",
+                "stars": 105
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mejaz/spicedb-ui",
+              "description": "Third-party SpiceDB web interface that allows inspection and management of a running SpiceDB instance",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1000266788,
+                "language": "JavaScript",
+                "last_commit": "2026-07-16T12:50:43Z",
+                "owner": "mejaz",
+                "repo": "spicedb-ui",
+                "stars": 31
               }
             },
             {
               "node_type": "item",
-              "title": "quizizz/spicedb-wrapper",
-              "description": "Lightweight client wrapper of authzed-node",
+              "title": "umbrellaassociates/opa-spicedb",
+              "description": "Third-party build of Open Policy Agent with a plugin to query SpiceDB",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-02-11T10:39:19Z",
-                "owner": "quizizz",
-                "repo": "spicedb-wrapper",
-                "stars": 0
+                "id": 856083345,
+                "language": "Go",
+                "last_commit": "2025-10-11T01:19:03Z",
+                "owner": "umbrellaassociates",
+                "repo": "opa-spicedb",
+                "stars": 26
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "JVM",
-          "description": null,
-          "children": [
+            },
             {
               "node_type": "item",
-              "title": "oviva-ag/spicegen",
-              "description": "type-safe client generator from a schema",
+              "title": "thomasdarimont/custom-opa-spicedb",
+              "description": "Third-party build of Open Policy Agent with a plugin to query SpiceDB",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Java",
-                "last_commit": "2026-07-01T12:39:45Z",
-                "owner": "oviva-ag",
-                "repo": "spicegen",
+                "id": 550511435,
+                "language": "Go",
+                "last_commit": "2024-03-11T10:02:29Z",
+                "owner": "thomasdarimont",
+                "repo": "custom-opa-spicedb",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mleonidas/tree-sitter-authzed",
+              "description": "Neovim tree-sitter grammar and syntax for SpiceDB schemas",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602131999,
+                "language": "JavaScript",
+                "last_commit": "2025-09-11T17:47:02Z",
+                "owner": "mleonidas",
+                "repo": "tree-sitter-authzed",
                 "stars": 12
               }
             },
             {
               "node_type": "item",
-              "title": "quarkiverse/quarkus-authzed-client",
-              "description": "gRPC client integration for Quarkus",
+              "title": "chiperific/vscode_authzed_syntax",
+              "description": "Third-party VSCode syntax highlighting",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 618466928,
+                "language": null,
+                "last_commit": "2025-08-07T12:50:21Z",
+                "owner": "chiperific",
+                "repo": "vscode_authzed_syntax",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dguhr/keycloak-spicedb-eventlistener",
+              "description": "Syncs changes to Keycloak users and groups to SpiceDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590800186,
                 "language": "Java",
-                "last_commit": "2026-08-17T23:51:25Z",
-                "owner": "quarkiverse",
-                "repo": "quarkus-authzed-client",
-                "stars": 8
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "PHP",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "alsbury/chiphpotle-rest",
-              "description": "HTTP client library in PHP",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "PHP",
-                "last_commit": "2025-05-02T15:14:15Z",
-                "owner": "alsbury",
-                "repo": "chiphpotle-rest",
-                "stars": 7
+                "last_commit": "2026-03-04T05:21:13Z",
+                "owner": "DGuhr",
+                "repo": "keycloak-spicedb-eventlistener",
+                "stars": 5
               }
             },
             {
               "node_type": "item",
-              "title": "linkorb/spicedb-php",
-              "description": "HTTP client library in PHP",
+              "title": "bushelpowered/spicedb-operator-chart",
+              "description": "Helm chart to install the SpiceDB Operator",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "PHP",
-                "last_commit": "2026-07-17T12:38:57Z",
-                "owner": "linkorb",
-                "repo": "spicedb-php",
-                "stars": 3
+                "id": 654718772,
+                "language": "Go Template",
+                "last_commit": "2026-04-28T16:43:19Z",
+                "owner": "bushelpowered",
+                "repo": "spicedb-operator-chart",
+                "stars": 4
               }
             },
             {
               "node_type": "item",
-              "title": "linkorb/spicedb-bundle",
-              "description": "SpiceDB client Symfony Bundle",
+              "title": "jeanlouhallee/intellij-spicedb-plugin",
+              "description": "Community IntelliJ plugin for SpiceDB schema files",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "PHP",
-                "last_commit": "2025-06-08T19:38:21Z",
-                "owner": "linkorb",
-                "repo": "spicedb-bundle",
-                "stars": 0
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Python",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "yahiaosama/authz-schema-sync-check",
-              "description": "tool to generate Python and Node type definitions from SpiceDB Schema.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Python",
-                "last_commit": "2026-01-26T10:28:12Z",
-                "owner": "yahiaosama",
-                "repo": "authz-schema-sync-check",
-                "stars": 7
-              }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "Rust",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Lur1an/spicedb-rust",
-              "description": "Opinionated SpiceDB gRPC client library in Rust",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "Rust",
-                "last_commit": "2024-12-01T14:14:01Z",
-                "owner": "Lur1an",
-                "repo": "spicedb-rust",
-                "stars": 9
+                "id": 1138381504,
+                "language": "Java",
+                "last_commit": "2026-01-31T18:21:56Z",
+                "owner": "jeanlouhallee",
+                "repo": "intellij-spicedb-plugin",
+                "stars": 2
               }
             },
             {
               "node_type": "item",
-              "title": "bitskico/authzed-rs",
-              "description": "gRPC client library in Rust",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "language": "Shell",
-                "last_commit": "2022-02-26T18:12:43Z",
-                "owner": "BitskiCo",
-                "repo": "authzed-rs",
-                "stars": 7
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "structionsite/spicedb-client-rust",
-              "description": "gRPC client library in Rust",
+              "title": "spicedb-operator-libsonnet",
+              "description": "Jsonnet library for the SpiceDB Operator",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Rust",
-                "last_commit": "2023-09-08T13:48:16Z",
-                "owner": "StructionSite",
-                "repo": "spicedb-client-rust",
+                "id": 800638966,
+                "language": "Jsonnet",
+                "last_commit": "2024-05-14T18:00:46Z",
+                "owner": "jsonnet-libs",
+                "repo": "spicedb-operator-libsonnet",
                 "stars": 1
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Third-party Tools"
         }
       ],
-      "title": "Third-party Libraries"
-    },
-    {
-      "description": "Tools that help enhance the experience of using SpiceDB",
-      "items": [],
       "title": "Developer Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "zed",
-          "description": "Official command-line tool for managing SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-07T18:57:51Z",
-            "owner": "authzed",
-            "repo": "zed",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SpiceDB Operator",
-          "description": "Official Kubernetes Operator for running SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-22T17:55:13Z",
-            "owner": "authzed",
-            "repo": "spicedb-operator",
-            "stars": 105
-          }
-        }
-      ],
-      "title": "Official Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "mejaz/spicedb-ui",
-          "description": "Third-party SpiceDB web interface that allows inspection and management of a running SpiceDB instance",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-16T12:50:43Z",
-            "owner": "mejaz",
-            "repo": "spicedb-ui",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "umbrellaassociates/opa-spicedb",
-          "description": "Third-party build of Open Policy Agent with a plugin to query SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-10-11T01:19:03Z",
-            "owner": "umbrellaassociates",
-            "repo": "opa-spicedb",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "thomasdarimont/custom-opa-spicedb",
-          "description": "Third-party build of Open Policy Agent with a plugin to query SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-03-11T10:02:29Z",
-            "owner": "thomasdarimont",
-            "repo": "custom-opa-spicedb",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mleonidas/tree-sitter-authzed",
-          "description": "Neovim tree-sitter grammar and syntax for SpiceDB schemas",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-09-11T17:47:02Z",
-            "owner": "mleonidas",
-            "repo": "tree-sitter-authzed",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "chiperific/vscode_authzed_syntax",
-          "description": "Third-party VSCode syntax highlighting",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-08-07T12:50:21Z",
-            "owner": "chiperific",
-            "repo": "vscode_authzed_syntax",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dguhr/keycloak-spicedb-eventlistener",
-          "description": "Syncs changes to Keycloak users and groups to SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-04T05:21:13Z",
-            "owner": "DGuhr",
-            "repo": "keycloak-spicedb-eventlistener",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bushelpowered/spicedb-operator-chart",
-          "description": "Helm chart to install the SpiceDB Operator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go Template",
-            "last_commit": "2026-04-28T16:43:19Z",
-            "owner": "bushelpowered",
-            "repo": "spicedb-operator-chart",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jeanlouhallee/intellij-spicedb-plugin",
-          "description": "Community IntelliJ plugin for SpiceDB schema files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-01-31T18:21:56Z",
-            "owner": "jeanlouhallee",
-            "repo": "intellij-spicedb-plugin",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spicedb-operator-libsonnet",
-          "description": "Jsonnet library for the SpiceDB Operator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jsonnet",
-            "last_commit": "2024-05-14T18:00:46Z",
-            "owner": "jsonnet-libs",
-            "repo": "spicedb-operator-libsonnet",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Third-party Tools"
     },
     {
       "description": "Example usage of SpiceDB and the tools in its ecosystem",
@@ -553,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515238162,
             "language": "Python",
             "last_commit": "2026-08-05T14:29:31Z",
             "owner": "authzed",
@@ -567,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 454517135,
             "language": "Smarty",
             "last_commit": "2022-03-03T22:34:17Z",
             "owner": "jonwhitty",
@@ -579,118 +614,128 @@
     },
     {
       "description": "Projects that integrate with SpiceDB",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "authzed/prom-authzed-proxy",
+              "description": "Prometheus proxy that performs SpiceDB permission checks based on labels",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 395815743,
+                "language": "Go",
+                "last_commit": "2024-07-01T13:56:19Z",
+                "owner": "authzed",
+                "repo": "prom-authzed-proxy",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "authzed/connector-postgres",
+              "description": "Deprecated synchronization between PostgreSQL and SpiceDB",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 420139593,
+                "language": "Go",
+                "last_commit": "2021-11-10T16:16:36Z",
+                "owner": "authzed",
+                "repo": "connector-postgresql",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official Integrations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gitpod-io/gitpod",
+              "description": "GitPod's support for fine-grained authorization leverages SpiceDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130879558,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T05:07:39Z",
+                "owner": "gitpod-io",
+                "repo": "gitpod",
+                "stars": 13751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wolfi-dev/os",
+              "description": "Container build toolchain that packages SpiceDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 533917104,
+                "language": "Shell",
+                "last_commit": "2026-08-18T14:14:45Z",
+                "owner": "wolfi-dev",
+                "repo": "os",
+                "stars": 1271
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "raystack/frontier",
+              "description": "Cloud-native, role-based user management system and authorization server for your applications and API endpoints",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 342477494,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:59:19Z",
+                "owner": "raystack",
+                "repo": "frontier",
+                "stars": 343
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "infratographer/permissions-api",
+              "description": "The default authorization strategy for Infratographer leverages SpiceDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 567438887,
+                "language": "Go",
+                "last_commit": "2026-08-16T20:33:35Z",
+                "owner": "infratographer",
+                "repo": "permissions-api",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "guicassolato/authorino-spicedb",
+              "description": "Implementation of Envoy external authz that can be driven by SpiceDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599226367,
+                "language": null,
+                "last_commit": "2023-02-16T13:24:09Z",
+                "owner": "guicassolato",
+                "repo": "authorino-spicedb",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Third-party Integrations"
+        }
+      ],
       "title": "Integrations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "authzed/prom-authzed-proxy",
-          "description": "Prometheus proxy that performs SpiceDB permission checks based on labels",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-07-01T13:56:19Z",
-            "owner": "authzed",
-            "repo": "prom-authzed-proxy",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "authzed/connector-postgres",
-          "description": "Deprecated synchronization between PostgreSQL and SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2021-11-10T16:16:36Z",
-            "owner": "authzed",
-            "repo": "connector-postgresql",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Official Integrations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gitpod-io/gitpod",
-          "description": "GitPod's support for fine-grained authorization leverages SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T05:07:39Z",
-            "owner": "gitpod-io",
-            "repo": "gitpod",
-            "stars": 13750
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wolfi-dev/os",
-          "description": "Container build toolchain that packages SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-17T14:10:21Z",
-            "owner": "wolfi-dev",
-            "repo": "os",
-            "stars": 1269
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "raystack/frontier",
-          "description": "Cloud-native, role-based user management system and authorization server for your applications and API endpoints",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T10:27:29Z",
-            "owner": "raystack",
-            "repo": "frontier",
-            "stars": 343
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "infratographer/permissions-api",
-          "description": "The default authorization strategy for Infratographer leverages SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-16T20:33:35Z",
-            "owner": "infratographer",
-            "repo": "permissions-api",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "guicassolato/authorino-spicedb",
-          "description": "Implementation of Envoy external authz that can be driven by SpiceDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-02-16T13:24:09Z",
-            "owner": "guicassolato",
-            "repo": "authorino-spicedb",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Third-party Integrations"
     },
     {
       "description": "Tools and libraries used to test or validate usage of SpiceDB",
@@ -702,6 +747,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 462900336,
             "language": "Dockerfile",
             "last_commit": "2026-02-08T16:04:39Z",
             "owner": "authzed",
@@ -716,6 +762,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 412197047,
             "language": "Shell",
             "last_commit": "2026-07-06T13:46:37Z",
             "owner": "authzed",
@@ -730,6 +777,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 581321809,
             "language": "TypeScript",
             "last_commit": "2023-01-25T16:27:50Z",
             "owner": "northone-inc",
@@ -742,8 +790,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:02:05.884Z",
+    "last_updated": "2026-08-19T12:53:12.969Z",
     "original_repository": "authzed/awesome-spicedb",
+    "original_repository_id": 515755600,
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
     "enhanced_repository": "enhansome/enhansome-spicedb",
     "enhanced_repository_description": null,
