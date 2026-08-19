@@ -154,7 +154,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,751 | 🐛 456 | 🌐 TypeScript | 📅 2026-08-17 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,752 | 🐛 456 | 🌐 TypeScript | 📅 2026-08-17 - GitPod's support for fine-grained authorization leverages SpiceDB
 * [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,271 | 🐛 83 | 🌐 Shell | 📅 2026-08-18 - Container build toolchain that packages SpiceDB
 * [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 46 | 🌐 Go | 📅 2026-08-19 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 36 | 🌐 Go | 📅 2026-08-16 - The default authorization strategy for Infratographer leverages SpiceDB

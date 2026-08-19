@@ -666,7 +666,7 @@
                 "last_commit": "2026-08-17T05:07:39Z",
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13751
+                "stars": 13752
               }
             },
             {
@@ -790,7 +790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:12.969Z",
+    "last_updated": "2026-08-19T14:03:28.567Z",
     "original_repository": "authzed/awesome-spicedb",
     "original_repository_id": 515755600,
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
