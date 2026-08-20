@@ -666,7 +666,7 @@
                 "last_commit": "2026-08-17T05:07:39Z",
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13752
+                "stars": 13753
               }
             },
             {
@@ -678,7 +678,7 @@
                 "archived": false,
                 "id": 533917104,
                 "language": "Shell",
-                "last_commit": "2026-08-18T14:14:45Z",
+                "last_commit": "2026-08-19T14:20:43Z",
                 "owner": "wolfi-dev",
                 "repo": "os",
                 "stars": 1271
@@ -693,7 +693,7 @@
                 "archived": false,
                 "id": 342477494,
                 "language": "Go",
-                "last_commit": "2026-08-19T09:59:19Z",
+                "last_commit": "2026-08-20T08:26:55Z",
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 343
@@ -708,7 +708,7 @@
                 "archived": false,
                 "id": 567438887,
                 "language": "Go",
-                "last_commit": "2026-08-16T20:33:35Z",
+                "last_commit": "2026-08-20T08:55:03Z",
                 "owner": "infratographer",
                 "repo": "permissions-api",
                 "stars": 11
@@ -790,7 +790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:03:28.567Z",
+    "last_updated": "2026-08-20T14:05:53.684Z",
     "original_repository": "authzed/awesome-spicedb",
     "original_repository_id": 515755600,
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
