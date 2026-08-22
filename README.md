@@ -140,7 +140,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 *Example usage of SpiceDB and the tools in its ecosystem*
 
-* [authzed/examples](https://github.com/authzed/examples) ⭐ 63 | 🐛 3 | 🌐 Python | 📅 2026-08-05 - Official examples repository
+* [authzed/examples](https://github.com/authzed/examples) ⭐ 64 | 🐛 3 | 🌐 Python | 📅 2026-08-05 - Official examples repository
 * [SpiceDB Helm Chart](https://github.com/jonwhitty/helm-charts/tree/master/charts/spicedb) ⭐ 5 | 🐛 1 | 🌐 Smarty | 📅 2022-03-03 - Helm Chart for an example 3-node deployment
 
 ## Integrations
@@ -155,7 +155,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Third-party Integrations
 
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,754 | 🐛 456 | 🌐 TypeScript | 📅 2026-08-17 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,274 | 🐛 84 | 🌐 Shell | 📅 2026-08-20 - Container build toolchain that packages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,275 | 🐛 84 | 🌐 Shell | 📅 2026-08-21 - Container build toolchain that packages SpiceDB
 * [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 49 | 🌐 Go | 📅 2026-08-21 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 36 | 🌐 Go | 📅 2026-08-20 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
