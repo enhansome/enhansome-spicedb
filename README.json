@@ -249,7 +249,7 @@
                     "archived": false,
                     "id": 539140635,
                     "language": "Java",
-                    "last_commit": "2026-08-24T13:34:36Z",
+                    "last_commit": "2026-08-24T18:47:09Z",
                     "owner": "quarkiverse",
                     "repo": "quarkus-authzed-client",
                     "stars": 8
@@ -666,7 +666,7 @@
                 "last_commit": "2026-08-24T10:26:09Z",
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13755
+                "stars": 13756
               }
             },
             {
@@ -693,7 +693,7 @@
                 "archived": false,
                 "id": 342477494,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:27:19Z",
+                "last_commit": "2026-08-25T06:31:58Z",
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 343
@@ -790,7 +790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T15:07:33.821Z",
+    "last_updated": "2026-08-25T06:32:01.334Z",
     "original_repository": "authzed/awesome-spicedb",
     "original_repository_id": 515755600,
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
