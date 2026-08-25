@@ -666,7 +666,7 @@
                 "last_commit": "2026-08-24T10:26:09Z",
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13756
+                "stars": 13755
               }
             },
             {
@@ -681,7 +681,7 @@
                 "last_commit": "2026-08-24T14:18:12Z",
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1275
+                "stars": 1276
               }
             },
             {
@@ -693,7 +693,7 @@
                 "archived": false,
                 "id": 342477494,
                 "language": "Go",
-                "last_commit": "2026-08-25T06:31:58Z",
+                "last_commit": "2026-08-25T10:35:12Z",
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 343
@@ -790,7 +790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:01.334Z",
+    "last_updated": "2026-08-25T14:11:10.490Z",
     "original_repository": "authzed/awesome-spicedb",
     "original_repository_id": 515755600,
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
