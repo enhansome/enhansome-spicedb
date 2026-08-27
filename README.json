@@ -666,7 +666,7 @@
                 "last_commit": "2026-08-24T10:26:09Z",
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13756
+                "stars": 13759
               }
             },
             {
@@ -678,7 +678,7 @@
                 "archived": false,
                 "id": 533917104,
                 "language": "Shell",
-                "last_commit": "2026-08-26T14:18:29Z",
+                "last_commit": "2026-08-27T17:49:20Z",
                 "owner": "wolfi-dev",
                 "repo": "os",
                 "stars": 1278
@@ -693,7 +693,7 @@
                 "archived": false,
                 "id": 342477494,
                 "language": "Go",
-                "last_commit": "2026-08-27T06:45:32Z",
+                "last_commit": "2026-08-27T20:14:05Z",
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 343
@@ -708,7 +708,7 @@
                 "archived": false,
                 "id": 567438887,
                 "language": "Go",
-                "last_commit": "2026-08-27T05:08:06Z",
+                "last_commit": "2026-08-27T17:12:51Z",
                 "owner": "infratographer",
                 "repo": "permissions-api",
                 "stars": 11
@@ -790,7 +790,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:34.086Z",
+    "last_updated": "2026-08-27T22:59:46.337Z",
     "original_repository_info": {
       "archived": false,
       "id": 515755600,
