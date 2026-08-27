@@ -405,7 +405,7 @@
                 "archived": false,
                 "id": 357107303,
                 "language": "Go",
-                "last_commit": "2026-08-07T18:57:51Z",
+                "last_commit": "2026-08-26T17:51:27Z",
                 "owner": "authzed",
                 "repo": "zed",
                 "stars": 163
@@ -420,7 +420,7 @@
                 "archived": false,
                 "id": 491227630,
                 "language": "Go",
-                "last_commit": "2026-07-22T17:55:13Z",
+                "last_commit": "2026-08-26T17:51:25Z",
                 "owner": "authzed",
                 "repo": "spicedb-operator",
                 "stars": 105
@@ -532,7 +532,7 @@
                 "archived": false,
                 "id": 654718772,
                 "language": "Go Template",
-                "last_commit": "2026-04-28T16:43:19Z",
+                "last_commit": "2026-08-26T19:34:29Z",
                 "owner": "bushelpowered",
                 "repo": "spicedb-operator-chart",
                 "stars": 4
@@ -666,7 +666,7 @@
                 "last_commit": "2026-08-24T10:26:09Z",
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13755
+                "stars": 13756
               }
             },
             {
@@ -678,10 +678,10 @@
                 "archived": false,
                 "id": 533917104,
                 "language": "Shell",
-                "last_commit": "2026-08-25T14:18:51Z",
+                "last_commit": "2026-08-26T14:18:29Z",
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1276
+                "stars": 1278
               }
             },
             {
@@ -693,7 +693,7 @@
                 "archived": false,
                 "id": 342477494,
                 "language": "Go",
-                "last_commit": "2026-08-26T08:57:52Z",
+                "last_commit": "2026-08-27T06:45:32Z",
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 343
@@ -708,7 +708,7 @@
                 "archived": false,
                 "id": 567438887,
                 "language": "Go",
-                "last_commit": "2026-08-25T16:39:06Z",
+                "last_commit": "2026-08-27T05:08:06Z",
                 "owner": "infratographer",
                 "repo": "permissions-api",
                 "stars": 11
@@ -790,9 +790,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:09:36.421Z",
-    "original_repository": "authzed/awesome-spicedb",
-    "original_repository_id": 515755600,
+    "last_updated": "2026-08-27T12:03:34.086Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 515755600,
+      "language": null,
+      "last_commit": "2026-02-09T21:58:24Z",
+      "owner": "authzed",
+      "repo": "awesome-spicedb",
+      "stars": 120
+    },
     "original_repository_sha": "27adb81cf7838746bf8cd8f431c21f21a0c30a2b",
     "enhanced_repository": "enhansome/enhansome-spicedb",
     "enhanced_repository_description": null,

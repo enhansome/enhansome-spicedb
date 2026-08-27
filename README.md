@@ -118,8 +118,8 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Official Tools
 
-* [zed](https://github.com/authzed/zed) ⭐ 163 | 🐛 51 | 🌐 Go | 📅 2026-08-07 - Official command-line tool for managing SpiceDB
-* [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 105 | 🐛 41 | 🌐 Go | 📅 2026-07-22 - Official Kubernetes Operator for running SpiceDB
+* [zed](https://github.com/authzed/zed) ⭐ 163 | 🐛 53 | 🌐 Go | 📅 2026-08-26 - Official command-line tool for managing SpiceDB
+* [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 105 | 🐛 40 | 🌐 Go | 📅 2026-08-26 - Official Kubernetes Operator for running SpiceDB
 * [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
 * Thumper (proprietary) - Official load generation tool for SpiceDB
 * [VS Code extension](https://marketplace.visualstudio.com/items?itemName=authzed.spicedb-vscode) - Official SpiceDB Visual Studio Code Extension
@@ -132,7 +132,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 * [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2025-09-11 - Neovim tree-sitter grammar and syntax for SpiceDB schemas
 * [chiperific/vscode\_authzed\_syntax](https://github.com/chiperific/vscode_authzed_syntax) ⭐ 6 | 🐛 0 | 📅 2025-08-07 - Third-party VSCode syntax highlighting
 * [dguhr/keycloak-spicedb-eventlistener](https://github.com/DGuhr/keycloak-spicedb-eventlistener) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-03-04 - Syncs changes to [Keycloak](https://www.keycloak.org) users and groups to SpiceDB
-* [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) ⭐ 4 | 🐛 6 | 🌐 Go Template | 📅 2026-04-28 - Helm chart to install the SpiceDB Operator
+* [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) ⭐ 4 | 🐛 6 | 🌐 Go Template | 📅 2026-08-26 - Helm chart to install the SpiceDB Operator
 * [jeanlouhallee/intellij-spicedb-plugin](https://github.com/jeanlouhallee/intellij-spicedb-plugin) ⭐ 2 | 🐛 2 | 🌐 Java | 📅 2026-01-31 - Community IntelliJ plugin for SpiceDB schema files
 * [spicedb-operator-libsonnet](https://github.com/jsonnet-libs/spicedb-operator-libsonnet) ⭐ 1 | 🐛 0 | 🌐 Jsonnet | 📅 2024-05-14 - Jsonnet library for the SpiceDB Operator
 
@@ -154,10 +154,10 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,755 | 🐛 456 | 🌐 TypeScript | 📅 2026-08-24 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,276 | 🐛 83 | 🌐 Shell | 📅 2026-08-25 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 38 | 🌐 Go | 📅 2026-08-26 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
-* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 38 | 🌐 Go | 📅 2026-08-25 - The default authorization strategy for Infratographer leverages SpiceDB
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,756 | 🐛 456 | 🌐 TypeScript | 📅 2026-08-24 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,278 | 🐛 83 | 🌐 Shell | 📅 2026-08-26 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 39 | 🌐 Go | 📅 2026-08-27 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 38 | 🌐 Go | 📅 2026-08-27 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
 * [Redpanda connector - spicedb\_watch](https://docs.redpanda.com/redpanda-connect/components/inputs/spicedb_watch/) - Consumes messages from the Watch API of a SpiceDB instance. This input is useful if you have downstream applications that need to react to real-time changes in data managed by SpiceDB.
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
