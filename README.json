@@ -18,7 +18,8 @@
                 "owner": "authzed",
                 "repo": "authzed-go",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "authzed",
                 "repo": "authzed-node",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "authzed",
                 "repo": "authzed-py",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "authzed",
                 "repo": "authzed-java",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "authzed",
                 "repo": "authzed-rb",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "authzed",
                 "repo": "authzed-dotnet",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             }
           ],
           "description": null,
@@ -120,7 +126,8 @@
                     "owner": "danhtran94",
                     "repo": "authzed-codegen",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 }
               ]
             },
@@ -142,7 +149,8 @@
                     "owner": "JalexSocial",
                     "repo": "SpiceDb",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 }
               ]
             },
@@ -164,7 +172,8 @@
                     "owner": "goodhamgupta",
                     "repo": "authzed_ex",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 }
               ]
             },
@@ -186,7 +195,8 @@
                     "owner": "yahiaosama",
                     "repo": "authz-schema-sync-check",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 },
                 {
                   "node_type": "item",
@@ -201,7 +211,8 @@
                     "owner": "SchoolAI",
                     "repo": "spicedb-zed-schema-parser",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 },
                 {
                   "node_type": "item",
@@ -216,7 +227,8 @@
                     "owner": "quizizz",
                     "repo": "spicedb-wrapper",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 }
               ]
             },
@@ -238,7 +250,8 @@
                     "owner": "oviva-ag",
                     "repo": "spicegen",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 },
                 {
                   "node_type": "item",
@@ -253,7 +266,8 @@
                     "owner": "quarkiverse",
                     "repo": "quarkus-authzed-client",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 }
               ]
             },
@@ -275,7 +289,8 @@
                     "owner": "alsbury",
                     "repo": "chiphpotle-rest",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 },
                 {
                   "node_type": "item",
@@ -290,7 +305,8 @@
                     "owner": "linkorb",
                     "repo": "spicedb-php",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 },
                 {
                   "node_type": "item",
@@ -305,7 +321,8 @@
                     "owner": "linkorb",
                     "repo": "spicedb-bundle",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 }
               ]
             },
@@ -327,7 +344,8 @@
                     "owner": "yahiaosama",
                     "repo": "authz-schema-sync-check",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 }
               ]
             },
@@ -349,7 +367,8 @@
                     "owner": "Lur1an",
                     "repo": "spicedb-rust",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 },
                 {
                   "node_type": "item",
@@ -364,7 +383,8 @@
                     "owner": "BitskiCo",
                     "repo": "authzed-rs",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 },
                 {
                   "node_type": "item",
@@ -379,7 +399,8 @@
                     "owner": "StructionSite",
                     "repo": "spicedb-client-rust",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T23:06:03.510Z"
                 }
               ]
             }
@@ -409,7 +430,8 @@
                 "owner": "authzed",
                 "repo": "zed",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -424,7 +446,8 @@
                 "owner": "authzed",
                 "repo": "spicedb-operator",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             }
           ],
           "description": null,
@@ -446,7 +469,8 @@
                 "owner": "mejaz",
                 "repo": "spicedb-ui",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -461,7 +485,8 @@
                 "owner": "umbrellaassociates",
                 "repo": "opa-spicedb",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -476,7 +501,8 @@
                 "owner": "thomasdarimont",
                 "repo": "custom-opa-spicedb",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -491,7 +517,8 @@
                 "owner": "mleonidas",
                 "repo": "tree-sitter-authzed",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -506,7 +533,8 @@
                 "owner": "chiperific",
                 "repo": "vscode_authzed_syntax",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -521,7 +549,8 @@
                 "owner": "DGuhr",
                 "repo": "keycloak-spicedb-eventlistener",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -536,7 +565,8 @@
                 "owner": "bushelpowered",
                 "repo": "spicedb-operator-chart",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -551,7 +581,8 @@
                 "owner": "jeanlouhallee",
                 "repo": "intellij-spicedb-plugin",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -566,7 +597,8 @@
                 "owner": "jsonnet-libs",
                 "repo": "spicedb-operator-libsonnet",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             }
           ],
           "description": null,
@@ -592,7 +624,8 @@
             "owner": "authzed",
             "repo": "examples",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T23:06:03.510Z"
         },
         {
           "node_type": "item",
@@ -607,7 +640,8 @@
             "owner": "jonwhitty",
             "repo": "helm-charts",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T23:06:03.510Z"
         }
       ],
       "title": "Examples"
@@ -630,7 +664,8 @@
                 "owner": "authzed",
                 "repo": "prom-authzed-proxy",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -645,7 +680,8 @@
                 "owner": "authzed",
                 "repo": "connector-postgresql",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             }
           ],
           "description": null,
@@ -666,8 +702,9 @@
                 "last_commit": "2026-08-24T10:26:09Z",
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13759
-              }
+                "stars": 13760
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -678,11 +715,12 @@
                 "archived": false,
                 "id": 533917104,
                 "language": "Shell",
-                "last_commit": "2026-08-27T17:49:20Z",
+                "last_commit": "2026-08-28T18:04:02Z",
                 "owner": "wolfi-dev",
                 "repo": "os",
                 "stars": 1278
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -693,11 +731,12 @@
                 "archived": false,
                 "id": 342477494,
                 "language": "Go",
-                "last_commit": "2026-08-27T20:14:05Z",
+                "last_commit": "2026-08-28T10:57:56Z",
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -708,11 +747,12 @@
                 "archived": false,
                 "id": 567438887,
                 "language": "Go",
-                "last_commit": "2026-08-27T17:12:51Z",
+                "last_commit": "2026-08-28T22:03:56Z",
                 "owner": "infratographer",
                 "repo": "permissions-api",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             },
             {
               "node_type": "item",
@@ -727,7 +767,8 @@
                 "owner": "guicassolato",
                 "repo": "authorino-spicedb",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T23:06:03.510Z"
             }
           ],
           "description": null,
@@ -753,7 +794,8 @@
             "owner": "authzed",
             "repo": "action-spicedb-validate",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T23:06:03.510Z"
         },
         {
           "node_type": "item",
@@ -768,7 +810,8 @@
             "owner": "authzed",
             "repo": "action-spicedb",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T23:06:03.510Z"
         },
         {
           "node_type": "item",
@@ -783,14 +826,15 @@
             "owner": "northone-inc",
             "repo": "local-spicedb",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T23:06:03.510Z"
         }
       ],
       "title": "Testing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:59:46.337Z",
+    "last_updated": "2026-08-28T23:06:03.510Z",
     "original_repository_info": {
       "archived": false,
       "id": 515755600,
