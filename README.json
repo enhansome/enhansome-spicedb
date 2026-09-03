@@ -224,8 +224,8 @@
                     "id": 955166312,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-05-10T07:19:42Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-09-03T16:41:06Z",
+                    "open_issues": 1,
                     "owner": "danhtran94",
                     "repo": "authzed-codegen",
                     "stars": 6,
@@ -671,8 +671,8 @@
                 "id": 491227630,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T01:37:32Z",
-                "open_issues": 41,
+                "last_commit": "2026-09-03T12:47:27Z",
+                "open_issues": 39,
                 "owner": "authzed",
                 "repo": "spicedb-operator",
                 "stars": 105,
@@ -1063,7 +1063,7 @@
                 "open_issues": 452,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13758,
+                "stars": 13759,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T14:14:44Z",
+                "last_commit": "2026-09-03T14:15:56Z",
                 "open_issues": 83,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1283,
+                "stars": 1284,
                 "topics": [
                   "wolfi"
                 ]
@@ -1123,7 +1123,7 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T16:29:47Z",
+                "last_commit": "2026-09-02T19:00:26Z",
                 "open_issues": 46,
                 "owner": "raystack",
                 "repo": "frontier",
@@ -1154,7 +1154,7 @@
                 "id": 567438887,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T09:46:16Z",
+                "last_commit": "2026-09-03T07:02:25Z",
                 "open_issues": 36,
                 "owner": "infratographer",
                 "repo": "permissions-api",
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:13:08.815Z",
+    "last_updated": "2026-09-03T17:05:00.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
