@@ -75,12 +75,12 @@ Looking to contribute? See [CONTRIBUTING.md].
 * [authzed-py](https://github.com/authzed/authzed-py) ⭐ 51 | 🐛 17 | 🌐 Python | 📅 2026-07-14 - Official client library for Python
 * [authzed-java](https://github.com/authzed/authzed-java) ⭐ 27 | 🐛 17 | 🌐 Java | 📅 2026-06-02 - Official client library for JVM languages in Java
 * [authzed-rb](https://github.com/authzed/authzed-rb) ⭐ 21 | 🐛 2 | 🌐 Ruby | 📅 2026-07-20 - Official client library for Ruby
-* [authzed-dotnet](https://github.com/authzed/authzed-dotnet) ⭐ 15 | 🐛 4 | 🌐 C# | 📅 2026-08-01 - Official client library for Dotnet/CSharp
+* [authzed-dotnet](https://github.com/authzed/authzed-dotnet) ⭐ 16 | 🐛 4 | 🌐 C# | 📅 2026-08-01 - Official client library for Dotnet/CSharp
 
 ### Third-party Libraries
 
 * Golang
-  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-09-03 - Type-Safe stubs code generator for your AuthZed schemas
+  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2026-09-04 - Type-Safe stubs code generator for your AuthZed schemas
 * .NET
   * [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) ⭐ 24 | 🐛 1 | 🌐 C# | 📅 2025-09-12 - gRPC client library in C#
 * BEAM
@@ -118,8 +118,8 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Official Tools
 
-* [zed](https://github.com/authzed/zed) ⭐ 163 | 🐛 54 | 🌐 Go | 📅 2026-08-26 - Official command-line tool for managing SpiceDB
-* [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 105 | 🐛 39 | 🌐 Go | 📅 2026-09-03 - Official Kubernetes Operator for running SpiceDB
+* [zed](https://github.com/authzed/zed) ⭐ 163 | 🐛 54 | 🌐 Go | 📅 2026-09-04 - Official command-line tool for managing SpiceDB
+* [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 106 | 🐛 39 | 🌐 Go | 📅 2026-09-03 - Official Kubernetes Operator for running SpiceDB
 * [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
 * Thumper (proprietary) - Official load generation tool for SpiceDB
 * [VS Code extension](https://marketplace.visualstudio.com/items?itemName=authzed.spicedb-vscode) - Official SpiceDB Visual Studio Code Extension
@@ -154,10 +154,10 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,759 | 🐛 452 | 🌐 TypeScript | 📅 2026-09-02 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,284 | 🐛 83 | 🌐 Shell | 📅 2026-09-03 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 46 | 🌐 Go | 📅 2026-09-02 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
-* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 36 | 🌐 Go | 📅 2026-09-03 - The default authorization strategy for Infratographer leverages SpiceDB
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,759 | 🐛 451 | 🌐 TypeScript | 📅 2026-09-03 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,284 | 🐛 83 | 🌐 Shell | 📅 2026-09-04 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 343 | 🐛 47 | 🌐 Go | 📅 2026-09-03 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 38 | 🌐 Go | 📅 2026-09-03 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
 * [Redpanda connector - spicedb\_watch](https://docs.redpanda.com/redpanda-connect/components/inputs/spicedb_watch/) - Consumes messages from the Watch API of a SpiceDB instance. This input is useful if you have downstream applications that need to react to real-time changes in data managed by SpiceDB.
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
