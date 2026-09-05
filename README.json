@@ -424,8 +424,8 @@
                     "id": 539140635,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T13:33:00Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-09-04T18:12:29Z",
+                    "open_issues": 10,
                     "owner": "quarkiverse",
                     "repo": "quarkus-authzed-client",
                     "stars": 8,
@@ -636,7 +636,7 @@
                 "open_issues": 54,
                 "owner": "authzed",
                 "repo": "zed",
-                "stars": 163,
+                "stars": 164,
                 "topics": [
                   "authorization",
                   "authzed",
@@ -1063,7 +1063,7 @@
                 "open_issues": 451,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13759,
+                "stars": 13762,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,7 +1100,7 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-04T14:13:39Z",
+                "last_commit": "2026-09-05T14:12:07Z",
                 "open_issues": 83,
                 "owner": "wolfi-dev",
                 "repo": "os",
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:54:37.584Z",
+    "last_updated": "2026-09-05T16:09:08.004Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
