@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T14:15:33Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-08T14:16:19Z",
+                "open_issues": 84,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1285,
+                "stars": 1286,
                 "topics": [
                   "wolfi"
                 ]
@@ -1123,8 +1123,8 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T07:12:18Z",
-                "open_issues": 48,
+                "last_commit": "2026-09-08T15:32:19Z",
+                "open_issues": 41,
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 343,
@@ -1154,7 +1154,7 @@
                 "id": 567438887,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T19:34:20Z",
+                "last_commit": "2026-09-07T23:16:00Z",
                 "open_issues": 38,
                 "owner": "infratographer",
                 "repo": "permissions-api",
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:17:39.876Z",
+    "last_updated": "2026-09-08T17:18:17.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
