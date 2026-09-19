@@ -224,7 +224,7 @@
                     "id": 955166312,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T00:15:06Z",
+                    "last_commit": "2026-09-18T21:02:10Z",
                     "open_issues": 3,
                     "owner": "danhtran94",
                     "repo": "authzed-codegen",
@@ -424,7 +424,7 @@
                     "id": 539140635,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-15T18:20:34Z",
+                    "last_commit": "2026-09-18T18:15:58Z",
                     "open_issues": 9,
                     "owner": "quarkiverse",
                     "repo": "quarkus-authzed-client",
@@ -745,7 +745,7 @@
                 "open_issues": 0,
                 "owner": "umbrellaassociates",
                 "repo": "opa-spicedb",
-                "stars": 26,
+                "stars": 27,
                 "topics": [
                   "open-policy-agent",
                   "spicedb"
@@ -930,7 +930,7 @@
             "open_issues": 3,
             "owner": "authzed",
             "repo": "examples",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "authorization",
               "authzed",
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T14:14:41Z",
+                "last_commit": "2026-09-19T14:12:35Z",
                 "open_issues": 87,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1286,
+                "stars": 1287,
                 "topics": [
                   "wolfi"
                 ]
@@ -1127,7 +1127,7 @@
                 "open_issues": 42,
                 "owner": "raystack",
                 "repo": "frontier",
-                "stars": 343,
+                "stars": 344,
                 "topics": [
                   "authentication",
                   "authorization",
@@ -1154,7 +1154,7 @@
                 "id": 567438887,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T04:10:08Z",
+                "last_commit": "2026-09-18T21:04:24Z",
                 "open_issues": 40,
                 "owner": "infratographer",
                 "repo": "permissions-api",
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:07:54.425Z",
+    "last_updated": "2026-09-19T16:36:08.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
