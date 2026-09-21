@@ -91,7 +91,7 @@ Looking to contribute? See [CONTRIBUTING.md].
   * [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-11 - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 44 | 🌐 TypeScript | 📅 2026-05-26
 * JVM
   * [oviva-ag/spicegen](https://github.com/oviva-ag/spicegen) ⭐ 12 | 🐛 3 | 🌐 Java | 📅 2026-07-01 - type-safe client generator from a schema
-  * [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) ⭐ 8 | 🐛 9 | 🌐 Java | 📅 2026-09-18 - gRPC client integration for Quarkus
+  * [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) ⭐ 8 | 🐛 10 | 🌐 Java | 📅 2026-09-21 - gRPC client integration for Quarkus
 * PHP
   * [alsbury/chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2025-05-02 - HTTP client library in PHP
   * [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-07-17 - HTTP client library in PHP
@@ -133,7 +133,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 * [chiperific/vscode\_authzed\_syntax](https://github.com/chiperific/vscode_authzed_syntax) ⭐ 6 | 🐛 0 | 📅 2025-08-07 - Third-party VSCode syntax highlighting
 * [dguhr/keycloak-spicedb-eventlistener](https://github.com/DGuhr/keycloak-spicedb-eventlistener) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-03-04 - Syncs changes to [Keycloak](https://www.keycloak.org) users and groups to SpiceDB
 * [bushelpowered/spicedb-operator-chart](https://github.com/bushelpowered/spicedb-operator-chart) ⭐ 4 | 🐛 6 | 🌐 Go Template | 📅 2026-09-11 - Helm chart to install the SpiceDB Operator
-* [jeanlouhallee/intellij-spicedb-plugin](https://github.com/jeanlouhallee/intellij-spicedb-plugin) ⭐ 2 | 🐛 2 | 🌐 Java | 📅 2026-01-31 - Community IntelliJ plugin for SpiceDB schema files
+* [jeanlouhallee/intellij-spicedb-plugin](https://github.com/jeanlouhallee/intellij-spicedb-plugin) ⭐ 3 | 🐛 3 | 🌐 Java | 📅 2026-09-21 - Community IntelliJ plugin for SpiceDB schema files
 * [spicedb-operator-libsonnet](https://github.com/jsonnet-libs/spicedb-operator-libsonnet) ⭐ 1 | 🐛 0 | 🌐 Jsonnet | 📅 2024-05-14 - Jsonnet library for the SpiceDB Operator
 
 ## Examples
@@ -154,9 +154,9 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,772 | 🐛 450 | 🌐 TypeScript | 📅 2026-09-18 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,288 | 🐛 88 | 🌐 Shell | 📅 2026-09-20 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 43 | 🌐 Go | 📅 2026-09-20 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,772 | 🐛 450 | 🌐 TypeScript | 📅 2026-09-21 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,288 | 🐛 88 | 🌐 Shell | 📅 2026-09-21 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 42 | 🌐 Go | 📅 2026-09-21 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 40 | 🌐 Go | 📅 2026-09-18 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
