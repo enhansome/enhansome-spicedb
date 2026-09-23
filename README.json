@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "authzed",
                 "repo": "authzed-go",
-                "stars": 105,
+                "stars": 104,
                 "topics": [
                   "authorization",
                   "authzed",
@@ -402,7 +402,7 @@
                     "open_issues": 3,
                     "owner": "oviva-ag",
                     "repo": "spicegen",
-                    "stars": 12,
+                    "stars": 13,
                     "topics": [
                       "generator",
                       "spicedb",
@@ -926,7 +926,7 @@
             "id": 515238162,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-05T14:29:31Z",
+            "last_commit": "2026-09-23T15:28:43Z",
             "open_issues": 3,
             "owner": "authzed",
             "repo": "examples",
@@ -1063,7 +1063,7 @@
                 "open_issues": 450,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13774,
+                "stars": 13775,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T14:15:03Z",
-                "open_issues": 87,
+                "last_commit": "2026-09-23T14:15:46Z",
+                "open_issues": 88,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1288,
+                "stars": 1292,
                 "topics": [
                   "wolfi"
                 ]
@@ -1123,8 +1123,8 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T15:29:46Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-23T11:05:15Z",
+                "open_issues": 45,
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 344,
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T17:40:22.741Z",
+    "last_updated": "2026-09-23T17:53:01.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
