@@ -70,25 +70,25 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Official Libraries
 
-* [authzed-go](https://github.com/authzed/authzed-go) ⭐ 104 | 🐛 21 | 🌐 Go | 📅 2026-09-16 - Official client library for Go
-* [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 44 | 🌐 TypeScript | 📅 2026-05-26 - Official client library for NodeJS in JavaScript/TypeScript
-* [authzed-py](https://github.com/authzed/authzed-py) ⭐ 51 | 🐛 17 | 🌐 Python | 📅 2026-07-14 - Official client library for Python
-* [authzed-java](https://github.com/authzed/authzed-java) ⭐ 27 | 🐛 17 | 🌐 Java | 📅 2026-06-02 - Official client library for JVM languages in Java
-* [authzed-rb](https://github.com/authzed/authzed-rb) ⭐ 21 | 🐛 2 | 🌐 Ruby | 📅 2026-07-20 - Official client library for Ruby
-* [authzed-dotnet](https://github.com/authzed/authzed-dotnet) ⭐ 16 | 🐛 4 | 🌐 C# | 📅 2026-08-01 - Official client library for Dotnet/CSharp
+* [authzed-go](https://github.com/authzed/authzed-go) ⭐ 104 | 🐛 21 | 🌐 Go | 📅 2026-09-24 - Official client library for Go
+* [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-24 - Official client library for NodeJS in JavaScript/TypeScript
+* [authzed-py](https://github.com/authzed/authzed-py) ⭐ 51 | 🐛 18 | 🌐 Python | 📅 2026-09-24 - Official client library for Python
+* [authzed-java](https://github.com/authzed/authzed-java) ⭐ 27 | 🐛 18 | 🌐 Java | 📅 2026-09-24 - Official client library for JVM languages in Java
+* [authzed-rb](https://github.com/authzed/authzed-rb) ⭐ 21 | 🐛 3 | 🌐 Ruby | 📅 2026-09-24 - Official client library for Ruby
+* [authzed-dotnet](https://github.com/authzed/authzed-dotnet) ⭐ 16 | 🐛 5 | 🌐 C# | 📅 2026-09-24 - Official client library for Dotnet/CSharp
 
 ### Third-party Libraries
 
 * Golang
-  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-09-19 - Type-Safe stubs code generator for your AuthZed schemas
+  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 3 | 🌐 Go | 📅 2026-09-25 - Type-Safe stubs code generator for your AuthZed schemas
 * .NET
   * [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) ⭐ 24 | 🐛 1 | 🌐 C# | 📅 2025-09-12 - gRPC client library in C#
 * BEAM
-  * [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) ⭐ 23 | 🐛 0 | 🌐 Elixir | 📅 2026-04-08 - gRPC client library in Elixir
+  * [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) ⭐ 23 | 🐛 1 | 🌐 Elixir | 📅 2026-04-08 - gRPC client library in Elixir
 * JavaScript/Typescript
   * [yahiaosama/authz-schema-sync-check](https://github.com/yahiaosama/authz-schema-sync-check) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-01-26 - tool to generate Python and Node type definitions from SpiceDB Schema.
-  * [SchoolAI/spicedb-zed-schema-parser](https://github.com/SchoolAI/spicedb-zed-schema-parser) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 - A tool to generate schema-aware typescript types and a type-safe wrapper for [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 44 | 🌐 TypeScript | 📅 2026-05-26
-  * [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-11 - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 44 | 🌐 TypeScript | 📅 2026-05-26
+  * [SchoolAI/spicedb-zed-schema-parser](https://github.com/SchoolAI/spicedb-zed-schema-parser) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 - A tool to generate schema-aware typescript types and a type-safe wrapper for [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-24
+  * [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-11 - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-24
 * JVM
   * [oviva-ag/spicegen](https://github.com/oviva-ag/spicegen) ⭐ 13 | 🐛 3 | 🌐 Java | 📅 2026-07-01 - type-safe client generator from a schema
   * [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) ⭐ 8 | 🐛 9 | 🌐 Java | 📅 2026-09-21 - gRPC client integration for Quarkus
@@ -155,9 +155,9 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Third-party Integrations
 
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,776 | 🐛 450 | 🌐 TypeScript | 📅 2026-09-21 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,292 | 🐛 89 | 🌐 Shell | 📅 2026-09-24 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 43 | 🌐 Go | 📅 2026-09-24 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
-* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 40 | 🌐 Go | 📅 2026-09-23 - The default authorization strategy for Infratographer leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,292 | 🐛 89 | 🌐 Shell | 📅 2026-09-25 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 44 | 🌐 Go | 📅 2026-09-25 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 40 | 🌐 Go | 📅 2026-09-25 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
 * [Redpanda connector - spicedb\_watch](https://docs.redpanda.com/redpanda-connect/components/inputs/spicedb_watch/) - Consumes messages from the Watch API of a SpiceDB instance. This input is useful if you have downstream applications that need to react to real-time changes in data managed by SpiceDB.
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
