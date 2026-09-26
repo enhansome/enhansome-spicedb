@@ -1063,7 +1063,7 @@
                 "open_issues": 450,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13776,
+                "stars": 13777,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T14:16:20Z",
+                "last_commit": "2026-09-26T14:13:27Z",
                 "open_issues": 89,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1292,
+                "stars": 1291,
                 "topics": [
                   "wolfi"
                 ]
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:59:52.012Z",
+    "last_updated": "2026-09-26T17:17:45.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
