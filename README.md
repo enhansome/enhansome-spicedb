@@ -119,7 +119,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Official Tools
 
 * [zed](https://github.com/authzed/zed) ⭐ 164 | 🐛 55 | 🌐 Go | 📅 2026-09-14 - Official command-line tool for managing SpiceDB
-* [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 107 | 🐛 35 | 🌐 Go | 📅 2026-09-16 - Official Kubernetes Operator for running SpiceDB
+* [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 107 | 🐛 36 | 🌐 Go | 📅 2026-10-06 - Official Kubernetes Operator for running SpiceDB
 * [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
 * Thumper (proprietary) - Official load generation tool for SpiceDB
 * [VS Code extension](https://marketplace.visualstudio.com/items?itemName=authzed.spicedb-vscode) - Official SpiceDB Visual Studio Code Extension
@@ -140,7 +140,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 *Example usage of SpiceDB and the tools in its ecosystem*
 
-* [authzed/examples](https://github.com/authzed/examples) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2026-10-01 - Official examples repository
+* [authzed/examples](https://github.com/authzed/examples) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2026-10-06 - Official examples repository
 * [SpiceDB Helm Chart](https://github.com/jonwhitty/helm-charts/tree/master/charts/spicedb) ⭐ 5 | 🐛 1 | 🌐 Smarty | 📅 2022-03-03 - Helm Chart for an example 3-node deployment
 
 ## Integrations
@@ -154,9 +154,9 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,783 | 🐛 450 | 🌐 TypeScript | 📅 2026-10-05 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,294 | 🐛 97 | 🌐 Shell | 📅 2026-10-05 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 345 | 🐛 42 | 🌐 Go | 📅 2026-10-06 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,786 | 🐛 449 | 🌐 TypeScript | 📅 2026-10-06 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,294 | 🐛 97 | 🌐 Shell | 📅 2026-10-06 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 44 | 🌐 Go | 📅 2026-10-06 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 40 | 🌐 Go | 📅 2026-10-05 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
