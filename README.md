@@ -140,7 +140,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 *Example usage of SpiceDB and the tools in its ecosystem*
 
-* [authzed/examples](https://github.com/authzed/examples) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2026-10-06 - Official examples repository
+* [authzed/examples](https://github.com/authzed/examples) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2026-10-07 - Official examples repository
 * [SpiceDB Helm Chart](https://github.com/jonwhitty/helm-charts/tree/master/charts/spicedb) ⭐ 5 | 🐛 1 | 🌐 Smarty | 📅 2022-03-03 - Helm Chart for an example 3-node deployment
 
 ## Integrations
@@ -154,9 +154,9 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,786 | 🐛 449 | 🌐 TypeScript | 📅 2026-10-06 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,294 | 🐛 97 | 🌐 Shell | 📅 2026-10-06 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 44 | 🌐 Go | 📅 2026-10-06 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,786 | 🐛 450 | 🌐 TypeScript | 📅 2026-10-07 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,294 | 🐛 98 | 🌐 Shell | 📅 2026-10-07 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 45 | 🌐 Go | 📅 2026-10-07 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 40 | 🌐 Go | 📅 2026-10-05 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
