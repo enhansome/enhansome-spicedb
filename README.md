@@ -99,7 +99,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 * Python
   * [yahiaosama/authz-schema-sync-check](https://github.com/yahiaosama/authz-schema-sync-check) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-01-26 - tool to generate Python and Node type definitions from SpiceDB Schema.
 * Rust
-  * [Lur1an/spicedb-rust](https://github.com/Lur1an/spicedb-rust) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2024-12-01 - Opinionated SpiceDB gRPC client library in Rust
+  * [Lur1an/spicedb-rust](https://github.com/Lur1an/spicedb-rust) ⭐ 8 | 🐛 0 | 🌐 Rust | 📅 2024-12-01 - Opinionated SpiceDB gRPC client library in Rust
   * [bitskico/authzed-rs](https://github.com/BitskiCo/authzed-rs) ⚠️ Archived - gRPC client library in Rust
   * [structionsite/spicedb-client-rust](https://github.com/StructionSite/spicedb-client-rust) ⭐ 1 | 🐛 1 | 🌐 Rust | 📅 2023-09-08 - gRPC client library in Rust
 
@@ -154,8 +154,8 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,792 | 🐛 451 | 🌐 TypeScript | 📅 2026-10-08 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,294 | 🐛 97 | 🌐 Shell | 📅 2026-10-09 - Container build toolchain that packages SpiceDB
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,794 | 🐛 452 | 🌐 TypeScript | 📅 2026-10-10 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,294 | 🐛 97 | 🌐 Shell | 📅 2026-10-10 - Container build toolchain that packages SpiceDB
 * [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 49 | 🌐 Go | 📅 2026-10-09 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 40 | 🌐 Go | 📅 2026-10-05 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
