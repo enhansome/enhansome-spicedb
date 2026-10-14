@@ -1059,8 +1059,8 @@
                 "id": 130879558,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-13T15:20:17Z",
-                "open_issues": 453,
+                "last_commit": "2026-10-14T13:37:25Z",
+                "open_issues": 452,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
                 "stars": 13799,
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T14:20:02Z",
+                "last_commit": "2026-10-14T14:14:54Z",
                 "open_issues": 99,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1295,
+                "stars": 1296,
                 "topics": [
                   "wolfi"
                 ]
@@ -1123,8 +1123,8 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T13:23:54Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-14T09:14:40Z",
+                "open_issues": 60,
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 343,
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:54:11.580Z",
+    "last_updated": "2026-10-14T18:04:38.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
