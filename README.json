@@ -343,7 +343,7 @@
                   "description": "A tool to generate schema-aware typescript types and a type-safe wrapper for authzed-node",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "A parser/analyzer for SpiceDB's .zed schema file format written in Typescript",
                     "homepage": null,
                     "id": 1011335221,
@@ -1059,8 +1059,8 @@
                 "id": 130879558,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-21T19:09:08Z",
-                "open_issues": 449,
+                "last_commit": "2026-10-25T02:07:26Z",
+                "open_issues": 450,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
                 "stars": 13804,
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T14:13:41Z",
+                "last_commit": "2026-10-25T14:19:02Z",
                 "open_issues": 104,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1297,
+                "stars": 1296,
                 "topics": [
                   "wolfi"
                 ]
@@ -1123,8 +1123,8 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:33:34Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-25T08:13:20Z",
+                "open_issues": 53,
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 344,
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T16:44:43.265Z",
+    "last_updated": "2026-10-25T17:06:56.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",

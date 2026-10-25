@@ -87,7 +87,7 @@ Looking to contribute? See [CONTRIBUTING.md].
   * [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) ⭐ 23 | 🐛 1 | 🌐 Elixir | 📅 2026-04-08 - gRPC client library in Elixir
 * JavaScript/Typescript
   * [yahiaosama/authz-schema-sync-check](https://github.com/yahiaosama/authz-schema-sync-check) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-01-26 - tool to generate Python and Node type definitions from SpiceDB Schema.
-  * [SchoolAI/spicedb-zed-schema-parser](https://github.com/SchoolAI/spicedb-zed-schema-parser) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-19 - A tool to generate schema-aware typescript types and a type-safe wrapper for [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-24
+  * [SchoolAI/spicedb-zed-schema-parser](https://github.com/SchoolAI/spicedb-zed-schema-parser) ⚠️ Archived - A tool to generate schema-aware typescript types and a type-safe wrapper for [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-24
   * [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-11 - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node) ⭐ 61 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-24
 * JVM
   * [oviva-ag/spicegen](https://github.com/oviva-ag/spicegen) ⭐ 13 | 🐛 3 | 🌐 Java | 📅 2026-07-01 - type-safe client generator from a schema
@@ -154,9 +154,9 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,804 | 🐛 449 | 🌐 TypeScript | 📅 2026-10-21 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,297 | 🐛 104 | 🌐 Shell | 📅 2026-10-24 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 50 | 🌐 Go | 📅 2026-10-23 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,804 | 🐛 450 | 🌐 TypeScript | 📅 2026-10-25 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,296 | 🐛 104 | 🌐 Shell | 📅 2026-10-25 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 53 | 🌐 Go | 📅 2026-10-25 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 54 | 🌐 Go | 📅 2026-10-22 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
