@@ -926,7 +926,7 @@
             "id": 515238162,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T12:28:01Z",
+            "last_commit": "2026-10-26T15:10:14Z",
             "open_issues": 4,
             "owner": "authzed",
             "repo": "examples",
@@ -1059,8 +1059,8 @@
                 "id": 130879558,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-25T02:07:26Z",
-                "open_issues": 450,
+                "last_commit": "2026-10-26T15:10:58Z",
+                "open_issues": 449,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
                 "stars": 13804,
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T14:19:02Z",
+                "last_commit": "2026-10-26T14:13:26Z",
                 "open_issues": 104,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1296,
+                "stars": 1298,
                 "topics": [
                   "wolfi"
                 ]
@@ -1123,8 +1123,8 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-25T08:13:20Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-26T17:00:38Z",
+                "open_issues": 57,
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 344,
@@ -1154,7 +1154,7 @@
                 "id": 567438887,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T03:26:34Z",
+                "last_commit": "2026-10-26T18:41:37Z",
                 "open_issues": 54,
                 "owner": "infratographer",
                 "repo": "permissions-api",
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:06:56.276Z",
+    "last_updated": "2026-10-26T19:26:21.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",

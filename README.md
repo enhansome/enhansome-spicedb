@@ -140,7 +140,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 *Example usage of SpiceDB and the tools in its ecosystem*
 
-* [authzed/examples](https://github.com/authzed/examples) ⭐ 66 | 🐛 4 | 🌐 Python | 📅 2026-10-16 - Official examples repository
+* [authzed/examples](https://github.com/authzed/examples) ⭐ 66 | 🐛 4 | 🌐 Python | 📅 2026-10-26 - Official examples repository
 * [SpiceDB Helm Chart](https://github.com/jonwhitty/helm-charts/tree/master/charts/spicedb) ⭐ 5 | 🐛 1 | 🌐 Smarty | 📅 2022-03-03 - Helm Chart for an example 3-node deployment
 
 ## Integrations
@@ -154,10 +154,10 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,804 | 🐛 450 | 🌐 TypeScript | 📅 2026-10-25 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,296 | 🐛 104 | 🌐 Shell | 📅 2026-10-25 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 53 | 🌐 Go | 📅 2026-10-25 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
-* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 54 | 🌐 Go | 📅 2026-10-22 - The default authorization strategy for Infratographer leverages SpiceDB
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,804 | 🐛 449 | 🌐 TypeScript | 📅 2026-10-26 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,298 | 🐛 104 | 🌐 Shell | 📅 2026-10-26 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 57 | 🌐 Go | 📅 2026-10-26 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 54 | 🌐 Go | 📅 2026-10-26 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
 * [Redpanda connector - spicedb\_watch](https://docs.redpanda.com/redpanda-connect/components/inputs/spicedb_watch/) - Consumes messages from the Watch API of a SpiceDB instance. This input is useful if you have downstream applications that need to react to real-time changes in data managed by SpiceDB.
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
