@@ -55,7 +55,7 @@
                 "open_issues": 45,
                 "owner": "authzed",
                 "repo": "authzed-node",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "authorization",
                   "authzed",
@@ -224,7 +224,7 @@
                     "id": 955166312,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T14:39:04Z",
+                    "last_commit": "2026-10-27T10:22:12Z",
                     "open_issues": 3,
                     "owner": "danhtran94",
                     "repo": "authzed-codegen",
@@ -636,7 +636,7 @@
                 "open_issues": 56,
                 "owner": "authzed",
                 "repo": "zed",
-                "stars": 165,
+                "stars": 166,
                 "topics": [
                   "authorization",
                   "authzed",
@@ -1100,7 +1100,7 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T14:13:26Z",
+                "last_commit": "2026-10-27T14:15:40Z",
                 "open_issues": 104,
                 "owner": "wolfi-dev",
                 "repo": "os",
@@ -1123,8 +1123,8 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T17:00:38Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-27T12:12:16Z",
+                "open_issues": 53,
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 344,
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:26:21.869Z",
+    "last_updated": "2026-10-27T18:46:52.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
@@ -1303,7 +1303,7 @@
       "open_issues": 6,
       "owner": "authzed",
       "repo": "awesome-spicedb",
-      "stars": 121,
+      "stars": 122,
       "topics": [
         "acl",
         "authorization",
