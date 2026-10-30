@@ -224,7 +224,7 @@
                     "id": 955166312,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T16:01:12Z",
+                    "last_commit": "2026-10-30T14:25:44Z",
                     "open_issues": 3,
                     "owner": "danhtran94",
                     "repo": "authzed-codegen",
@@ -424,8 +424,8 @@
                     "id": 539140635,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T15:25:29Z",
-                    "open_issues": 9,
+                    "last_commit": "2026-10-30T13:32:38Z",
+                    "open_issues": 10,
                     "owner": "quarkiverse",
                     "repo": "quarkus-authzed-client",
                     "stars": 8,
@@ -1063,7 +1063,7 @@
                 "open_issues": 449,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13804,
+                "stars": 13806,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T14:19:28Z",
+                "last_commit": "2026-10-30T14:14:35Z",
                 "open_issues": 106,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1300,
+                "stars": 1301,
                 "topics": [
                   "wolfi"
                 ]
@@ -1123,8 +1123,8 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T07:52:27Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-30T09:11:38Z",
+                "open_issues": 52,
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 344,
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:03:11.528Z",
+    "last_updated": "2026-10-30T18:41:11.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
