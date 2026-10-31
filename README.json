@@ -724,7 +724,7 @@
                 "open_issues": 5,
                 "owner": "mejaz",
                 "repo": "spicedb-ui",
-                "stars": 31,
+                "stars": 32,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:06:03.510Z"
@@ -1063,7 +1063,7 @@
                 "open_issues": 449,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13806,
+                "stars": 13804,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T14:14:35Z",
+                "last_commit": "2026-10-31T14:19:25Z",
                 "open_issues": 106,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1301,
+                "stars": 1303,
                 "topics": [
                   "wolfi"
                 ]
@@ -1154,7 +1154,7 @@
                 "id": 567438887,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T18:41:37Z",
+                "last_commit": "2026-10-31T06:34:29Z",
                 "open_issues": 54,
                 "owner": "infratographer",
                 "repo": "permissions-api",
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:41:11.870Z",
+    "last_updated": "2026-10-31T17:49:54.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
