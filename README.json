@@ -930,7 +930,7 @@
             "open_issues": 4,
             "owner": "authzed",
             "repo": "examples",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "authorization",
               "authzed",
@@ -1063,7 +1063,7 @@
                 "open_issues": 449,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13804,
+                "stars": 13803,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,7 +1100,7 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T14:14:38Z",
+                "last_commit": "2026-11-04T14:13:39Z",
                 "open_issues": 108,
                 "owner": "wolfi-dev",
                 "repo": "os",
@@ -1123,7 +1123,7 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T19:33:42Z",
+                "last_commit": "2026-11-04T12:40:48Z",
                 "open_issues": 52,
                 "owner": "raystack",
                 "repo": "frontier",
@@ -1154,7 +1154,7 @@
                 "id": 567438887,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-31T06:34:29Z",
+                "last_commit": "2026-11-03T22:20:52Z",
                 "open_issues": 54,
                 "owner": "infratographer",
                 "repo": "permissions-api",
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:10:27.931Z",
+    "last_updated": "2026-11-04T20:28:25.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
