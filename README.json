@@ -224,7 +224,7 @@
                     "id": 955166312,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-10-30T14:25:44Z",
+                    "last_commit": "2026-11-05T11:51:23Z",
                     "open_issues": 3,
                     "owner": "danhtran94",
                     "repo": "authzed-codegen",
@@ -1063,7 +1063,7 @@
                 "open_issues": 449,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13803,
+                "stars": 13800,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,8 +1100,8 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T14:13:39Z",
-                "open_issues": 108,
+                "last_commit": "2026-11-05T14:16:13Z",
+                "open_issues": 109,
                 "owner": "wolfi-dev",
                 "repo": "os",
                 "stars": 1304,
@@ -1123,8 +1123,8 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T12:40:48Z",
-                "open_issues": 52,
+                "last_commit": "2026-11-05T08:44:57Z",
+                "open_issues": 49,
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 344,
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:28:25.825Z",
+    "last_updated": "2026-11-05T20:43:54.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
