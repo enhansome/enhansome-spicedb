@@ -118,7 +118,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Official Tools
 
-* [zed](https://github.com/authzed/zed) ⭐ 166 | 🐛 58 | 🌐 Go | 📅 2026-11-06 - Official command-line tool for managing SpiceDB
+* [zed](https://github.com/authzed/zed) ⭐ 166 | 🐛 56 | 🌐 Go | 📅 2026-11-06 - Official command-line tool for managing SpiceDB
 * [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 106 | 🐛 36 | 🌐 Go | 📅 2026-11-06 - Official Kubernetes Operator for running SpiceDB
 * [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
 * Thumper (proprietary) - Official load generation tool for SpiceDB
@@ -155,7 +155,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Third-party Integrations
 
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,800 | 🐛 449 | 🌐 TypeScript | 📅 2026-11-02 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,305 | 🐛 109 | 🌐 Shell | 📅 2026-11-06 - Container build toolchain that packages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,306 | 🐛 110 | 🌐 Shell | 📅 2026-11-07 - Container build toolchain that packages SpiceDB
 * [raystack/frontier](https://github.com/raystack/frontier) ⭐ 344 | 🐛 51 | 🌐 Go | 📅 2026-11-06 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 54 | 🌐 Go | 📅 2026-11-03 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
