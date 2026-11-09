@@ -632,7 +632,7 @@
                 "id": 357107303,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T20:17:41Z",
+                "last_commit": "2026-11-09T17:38:55Z",
                 "open_issues": 56,
                 "owner": "authzed",
                 "repo": "zed",
@@ -671,7 +671,7 @@
                 "id": 491227630,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T19:33:23Z",
+                "last_commit": "2026-11-09T17:40:16Z",
                 "open_issues": 35,
                 "owner": "authzed",
                 "repo": "spicedb-operator",
@@ -1059,11 +1059,11 @@
                 "id": 130879558,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-08T02:09:37Z",
-                "open_issues": 450,
+                "last_commit": "2026-11-09T05:05:41Z",
+                "open_issues": 451,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13798,
+                "stars": 13799,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,11 +1100,11 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-08T14:13:57Z",
-                "open_issues": 110,
+                "last_commit": "2026-11-09T14:19:22Z",
+                "open_issues": 109,
                 "owner": "wolfi-dev",
                 "repo": "os",
-                "stars": 1307,
+                "stars": 1308,
                 "topics": [
                   "wolfi"
                 ]
@@ -1127,7 +1127,7 @@
                 "open_issues": 51,
                 "owner": "raystack",
                 "repo": "frontier",
-                "stars": 344,
+                "stars": 345,
                 "topics": [
                   "authentication",
                   "authorization",
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T18:24:29.198Z",
+    "last_updated": "2026-11-09T23:03:01.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
