@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "authzed",
                 "repo": "authzed-go",
-                "stars": 104,
+                "stars": 105,
                 "topics": [
                   "authorization",
                   "authzed",
@@ -55,7 +55,7 @@
                 "open_issues": 45,
                 "owner": "authzed",
                 "repo": "authzed-node",
-                "stars": 62,
+                "stars": 63,
                 "topics": [
                   "authorization",
                   "authzed",
@@ -125,7 +125,7 @@
                 "open_issues": 18,
                 "owner": "authzed",
                 "repo": "authzed-java",
-                "stars": 27,
+                "stars": 28,
                 "topics": [
                   "authorization",
                   "authzed",
@@ -157,7 +157,7 @@
                 "open_issues": 3,
                 "owner": "authzed",
                 "repo": "authzed-rb",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "acl",
                   "authorization",
@@ -195,7 +195,7 @@
                 "open_issues": 5,
                 "owner": "authzed",
                 "repo": "authzed-dotnet",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:06:03.510Z"
@@ -224,7 +224,7 @@
                     "id": 955166312,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T05:08:26Z",
+                    "last_commit": "2026-11-10T19:34:08Z",
                     "open_issues": 3,
                     "owner": "danhtran94",
                     "repo": "authzed-codegen",
@@ -290,7 +290,7 @@
                     "id": 509099787,
                     "language": "Elixir",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-04-08T07:01:19Z",
+                    "last_commit": "2026-11-10T13:17:15Z",
                     "open_issues": 1,
                     "owner": "goodhamgupta",
                     "repo": "authzed_ex",
@@ -428,7 +428,7 @@
                     "open_issues": 9,
                     "owner": "quarkiverse",
                     "repo": "quarkus-authzed-client",
-                    "stars": 10,
+                    "stars": 12,
                     "topics": [
                       "authzed",
                       "fga",
@@ -636,7 +636,7 @@
                 "open_issues": 56,
                 "owner": "authzed",
                 "repo": "zed",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "authorization",
                   "authzed",
@@ -930,7 +930,7 @@
             "open_issues": 4,
             "owner": "authzed",
             "repo": "examples",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "authorization",
               "authzed",
@@ -1059,11 +1059,11 @@
                 "id": 130879558,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-09T05:05:41Z",
-                "open_issues": 451,
+                "last_commit": "2026-11-10T16:37:48Z",
+                "open_issues": 448,
                 "owner": "gitpod-io",
                 "repo": "gitpod",
-                "stars": 13799,
+                "stars": 13800,
                 "topics": [
                   "cde",
                   "cloud",
@@ -1100,8 +1100,8 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T14:19:22Z",
-                "open_issues": 109,
+                "last_commit": "2026-11-10T14:19:00Z",
+                "open_issues": 108,
                 "owner": "wolfi-dev",
                 "repo": "os",
                 "stars": 1308,
@@ -1127,7 +1127,7 @@
                 "open_issues": 51,
                 "owner": "raystack",
                 "repo": "frontier",
-                "stars": 345,
+                "stars": 346,
                 "topics": [
                   "authentication",
                   "authorization",
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:03:01.941Z",
+    "last_updated": "2026-11-10T20:30:31.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
