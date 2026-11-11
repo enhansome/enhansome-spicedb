@@ -80,11 +80,11 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Third-party Libraries
 
 * Golang
-  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 3 | 🌐 Go | 📅 2026-11-10 - Type-Safe stubs code generator for your AuthZed schemas
+  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 3 | 🌐 Go | 📅 2026-11-11 - Type-Safe stubs code generator for your AuthZed schemas
 * .NET
   * [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) ⭐ 24 | 🐛 1 | 🌐 C# | 📅 2025-09-12 - gRPC client library in C#
 * BEAM
-  * [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) ⭐ 23 | 🐛 1 | 🌐 Elixir | 📅 2026-11-10 - gRPC client library in Elixir
+  * [goodhamgupta/authzed-ex](https://github.com/goodhamgupta/authzed_ex) ⭐ 23 | 🐛 1 | 🌐 Elixir | 📅 2026-11-11 - gRPC client library in Elixir
 * JavaScript/Typescript
   * [yahiaosama/authz-schema-sync-check](https://github.com/yahiaosama/authz-schema-sync-check) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-01-26 - tool to generate Python and Node type definitions from SpiceDB Schema.
   * [SchoolAI/spicedb-zed-schema-parser](https://github.com/SchoolAI/spicedb-zed-schema-parser) ⚠️ Archived - A tool to generate schema-aware typescript types and a type-safe wrapper for [authzed-node](https://github.com/authzed/authzed-node) ⭐ 63 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-24
@@ -94,7 +94,7 @@ Looking to contribute? See [CONTRIBUTING.md].
   * [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) ⭐ 12 | 🐛 9 | 🌐 Java | 📅 2026-11-06 - gRPC client integration for Quarkus
 * PHP
   * [alsbury/chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2025-05-02 - HTTP client library in PHP
-  * [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-07-17 - HTTP client library in PHP
+  * [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) ⭐ 3 | 🐛 1 | 🌐 PHP | 📅 2026-11-11 - HTTP client library in PHP
   * [linkorb/spicedb-bundle](https://github.com/linkorb/spicedb-bundle) ⭐ 0 | 🐛 0 | 🌐 PHP | 📅 2026-09-07 - SpiceDB client Symfony Bundle
 * Python
   * [yahiaosama/authz-schema-sync-check](https://github.com/yahiaosama/authz-schema-sync-check) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-01-26 - tool to generate Python and Node type definitions from SpiceDB Schema.
@@ -154,10 +154,10 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,800 | 🐛 448 | 🌐 TypeScript | 📅 2026-11-10 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,308 | 🐛 108 | 🌐 Shell | 📅 2026-11-10 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 346 | 🐛 51 | 🌐 Go | 📅 2026-11-07 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
-* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 54 | 🌐 Go | 📅 2026-11-03 - The default authorization strategy for Infratographer leverages SpiceDB
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,800 | 🐛 448 | 🌐 TypeScript | 📅 2026-11-11 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,310 | 🐛 109 | 🌐 Shell | 📅 2026-11-11 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 346 | 🐛 54 | 🌐 Go | 📅 2026-11-11 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 54 | 🌐 Go | 📅 2026-11-10 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
 * [Redpanda connector - spicedb\_watch](https://docs.redpanda.com/redpanda-connect/components/inputs/spicedb_watch/) - Consumes messages from the Watch API of a SpiceDB instance. This input is useful if you have downstream applications that need to react to real-time changes in data managed by SpiceDB.
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
