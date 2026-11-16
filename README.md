@@ -72,15 +72,15 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 * [authzed-go](https://github.com/authzed/authzed-go) ⭐ 105 | 🐛 20 | 🌐 Go | 📅 2026-11-12 - Official client library for Go
 * [authzed-node](https://github.com/authzed/authzed-node) ⭐ 63 | 🐛 45 | 🌐 TypeScript | 📅 2026-09-24 - Official client library for NodeJS in JavaScript/TypeScript
-* [authzed-py](https://github.com/authzed/authzed-py) ⭐ 51 | 🐛 19 | 🌐 Python | 📅 2026-11-12 - Official client library for Python
+* [authzed-py](https://github.com/authzed/authzed-py) ⭐ 51 | 🐛 18 | 🌐 Python | 📅 2026-11-12 - Official client library for Python
 * [authzed-java](https://github.com/authzed/authzed-java) ⭐ 28 | 🐛 18 | 🌐 Java | 📅 2026-09-24 - Official client library for JVM languages in Java
 * [authzed-rb](https://github.com/authzed/authzed-rb) ⭐ 22 | 🐛 3 | 🌐 Ruby | 📅 2026-09-24 - Official client library for Ruby
-* [authzed-dotnet](https://github.com/authzed/authzed-dotnet) ⭐ 17 | 🐛 5 | 🌐 C# | 📅 2026-09-24 - Official client library for Dotnet/CSharp
+* [authzed-dotnet](https://github.com/authzed/authzed-dotnet) ⭐ 16 | 🐛 5 | 🌐 C# | 📅 2026-09-24 - Official client library for Dotnet/CSharp
 
 ### Third-party Libraries
 
 * Golang
-  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-11-13 - Type-Safe stubs code generator for your AuthZed schemas
+  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-11-16 - Type-Safe stubs code generator for your AuthZed schemas
 * .NET
   * [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) ⭐ 24 | 🐛 1 | 🌐 C# | 📅 2025-09-12 - gRPC client library in C#
 * BEAM
@@ -127,7 +127,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Third-party Tools
 
 * [mejaz/spicedb-ui](https://github.com/mejaz/spicedb-ui) ⭐ 32 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-16 - Third-party SpiceDB web interface that allows inspection and management of a running SpiceDB instance
-* [umbrellaassociates/opa-spicedb](https://github.com/umbrellaassociates/opa-spicedb) ⭐ 27 | 🐛 0 | 🌐 Go | 📅 2025-10-11 - Third-party build of Open Policy Agent with a plugin to query SpiceDB
+* [umbrellaassociates/opa-spicedb](https://github.com/umbrellaassociates/opa-spicedb) ⭐ 26 | 🐛 0 | 🌐 Go | 📅 2025-10-11 - Third-party build of Open Policy Agent with a plugin to query SpiceDB
 * [thomasdarimont/custom-opa-spicedb](https://github.com/thomasdarimont/custom-opa-spicedb) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2024-03-11 - Third-party build of Open Policy Agent with a plugin to query SpiceDB
 * [mleonidas/tree-sitter-authzed](https://github.com/mleonidas/tree-sitter-authzed) ⭐ 12 | 🐛 3 | 🌐 JavaScript | 📅 2025-09-11 - Neovim tree-sitter grammar and syntax for SpiceDB schemas
 * [chiperific/vscode\_authzed\_syntax](https://github.com/chiperific/vscode_authzed_syntax) ⭐ 6 | 🐛 0 | 📅 2025-08-07 - Third-party VSCode syntax highlighting
@@ -149,14 +149,14 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Official Integrations
 
-* [authzed/prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) ⭐ 41 | 🐛 4 | 🌐 Go | 📅 2024-07-01 - Prometheus proxy that performs SpiceDB permission checks based on labels
+* [authzed/prom-authzed-proxy](https://github.com/authzed/prom-authzed-proxy) ⭐ 40 | 🐛 4 | 🌐 Go | 📅 2024-07-01 - Prometheus proxy that performs SpiceDB permission checks based on labels
 * [authzed/connector-postgres](https://github.com/authzed/connector-postgresql) ⚠️ Archived - Deprecated synchronization between PostgreSQL and SpiceDB
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,797 | 🐛 448 | 🌐 TypeScript | 📅 2026-11-11 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,313 | 🐛 109 | 🌐 Shell | 📅 2026-11-15 - Container build toolchain that packages SpiceDB
-* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 346 | 🐛 57 | 🌐 Go | 📅 2026-11-15 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,797 | 🐛 448 | 🌐 TypeScript | 📅 2026-11-16 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,313 | 🐛 109 | 🌐 Shell | 📅 2026-11-16 - Container build toolchain that packages SpiceDB
+* [raystack/frontier](https://github.com/raystack/frontier) ⭐ 346 | 🐛 56 | 🌐 Go | 📅 2026-11-16 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 56 | 🌐 Go | 📅 2026-11-13 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
 * [koralium/flowtide](https://koralium.github.io/flowtide/docs/connectors/spicedb) - Data streaming engine, can read/write data into SpiceDB and can also denormalize SpiceDB permissions when integrating with other databases/systems.
@@ -173,11 +173,11 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 *Tools and libraries used to test or validate usage of SpiceDB*
 
-* [authzed/action-spicedb-validate](https://github.com/authzed/action-spicedb-validate) ⭐ 16 | 🐛 3 | 🌐 Dockerfile | 📅 2026-02-08 - GitHub Action for validating your SpiceDB schema
+* [authzed/action-spicedb-validate](https://github.com/authzed/action-spicedb-validate) ⭐ 15 | 🐛 3 | 🌐 Dockerfile | 📅 2026-02-08 - GitHub Action for validating your SpiceDB schema
 * [authzed/action-spicedb](https://github.com/authzed/action-spicedb) ⭐ 11 | 🐛 1 | 🌐 Shell | 📅 2026-07-06 - GitHub Action for integration testing your application with SpiceDB
 * [northone-inc/local-spicedb](https://github.com/northone-inc/local-spicedb) ⚠️ Archived - Node library for running SpiceDB ephermally for testing
 * [SpiceDB Testcontainer](https://testcontainers.com/modules/spicedb/) - Throwaway, lightweight instances of the SpiceDB Go library in a Docker container for testing.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
