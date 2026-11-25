@@ -672,7 +672,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T17:40:16Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "authzed",
                 "repo": "spicedb-operator",
                 "stars": 108,
@@ -1100,7 +1100,7 @@
                 "id": 533917104,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T14:20:52Z",
+                "last_commit": "2026-11-25T14:22:50Z",
                 "open_issues": 115,
                 "owner": "wolfi-dev",
                 "repo": "os",
@@ -1123,8 +1123,8 @@
                 "id": 342477494,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T16:12:45Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-25T08:05:05Z",
+                "open_issues": 56,
                 "owner": "raystack",
                 "repo": "frontier",
                 "stars": 345,
@@ -1291,7 +1291,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:07:57.244Z",
+    "last_updated": "2026-11-25T22:38:07.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "An awesome list for the SpiceDB ecosystem 😎",
@@ -1303,7 +1303,7 @@
       "open_issues": 6,
       "owner": "authzed",
       "repo": "awesome-spicedb",
-      "stars": 121,
+      "stars": 122,
       "topics": [
         "acl",
         "authorization",
