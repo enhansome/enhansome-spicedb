@@ -119,7 +119,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Official Tools
 
 * [zed](https://github.com/authzed/zed) ⭐ 168 | 🐛 57 | 🌐 Go | 📅 2026-11-20 - Official command-line tool for managing SpiceDB
-* [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 108 | 🐛 37 | 🌐 Go | 📅 2026-11-09 - Official Kubernetes Operator for running SpiceDB
+* [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 108 | 🐛 38 | 🌐 Go | 📅 2026-11-09 - Official Kubernetes Operator for running SpiceDB
 * [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
 * Thumper (proprietary) - Official load generation tool for SpiceDB
 * [VS Code extension](https://marketplace.visualstudio.com/items?itemName=authzed.spicedb-vscode) - Official SpiceDB Visual Studio Code Extension
@@ -155,7 +155,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Third-party Integrations
 
 * [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,801 | 🐛 449 | 🌐 TypeScript | 📅 2026-11-23 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,317 | 🐛 115 | 🌐 Shell | 📅 2026-11-25 - Container build toolchain that packages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,318 | 🐛 116 | 🌐 Shell | 📅 2026-11-26 - Container build toolchain that packages SpiceDB
 * [raystack/frontier](https://github.com/raystack/frontier) ⭐ 345 | 🐛 56 | 🌐 Go | 📅 2026-11-25 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 56 | 🌐 Go | 📅 2026-11-23 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
