@@ -70,7 +70,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Official Libraries
 
-* [authzed-go](https://github.com/authzed/authzed-go) ⭐ 106 | 🐛 20 | 🌐 Go | 📅 2026-11-20 - Official client library for Go
+* [authzed-go](https://github.com/authzed/authzed-go) ⭐ 106 | 🐛 21 | 🌐 Go | 📅 2026-11-27 - Official client library for Go
 * [authzed-node](https://github.com/authzed/authzed-node) ⭐ 63 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-20 - Official client library for NodeJS in JavaScript/TypeScript
 * [authzed-py](https://github.com/authzed/authzed-py) ⭐ 51 | 🐛 19 | 🌐 Python | 📅 2026-11-20 - Official client library for Python
 * [authzed-java](https://github.com/authzed/authzed-java) ⭐ 28 | 🐛 19 | 🌐 Java | 📅 2026-11-20 - Official client library for JVM languages in Java
@@ -80,7 +80,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 ### Third-party Libraries
 
 * Golang
-  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 2 | 🌐 Go | 📅 2026-11-24 - Type-Safe stubs code generator for your AuthZed schemas
+  * [danhtran94/authzed-codegen](https://github.com/danhtran94/authzed-codegen) ⭐ 6 | 🐛 3 | 🌐 Go | 📅 2026-11-27 - Type-Safe stubs code generator for your AuthZed schemas
 * .NET
   * [jalexsocial/spicedb](https://github.com/JalexSocial/SpiceDb) ⭐ 23 | 🐛 2 | 🌐 C# | 📅 2025-09-12 - gRPC client library in C#
 * BEAM
@@ -91,7 +91,7 @@ Looking to contribute? See [CONTRIBUTING.md].
   * [quizizz/spicedb-wrapper](https://github.com/quizizz/spicedb-wrapper) ⭐ 0 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-11 - Lightweight client wrapper of [authzed-node](https://github.com/authzed/authzed-node) ⭐ 63 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-20
 * JVM
   * [oviva-ag/spicegen](https://github.com/oviva-ag/spicegen) ⭐ 13 | 🐛 1 | 🌐 Java | 📅 2026-07-01 - type-safe client generator from a schema
-  * [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) ⭐ 12 | 🐛 10 | 🌐 Java | 📅 2026-11-23 - gRPC client integration for Quarkus
+  * [quarkiverse/quarkus-authzed-client](https://github.com/quarkiverse/quarkus-authzed-client) ⭐ 12 | 🐛 11 | 🌐 Java | 📅 2026-11-27 - gRPC client integration for Quarkus
 * PHP
   * [alsbury/chiphpotle-rest](https://github.com/alsbury/chiphpotle-rest) ⭐ 7 | 🐛 1 | 🌐 PHP | 📅 2025-05-02 - HTTP client library in PHP
   * [linkorb/spicedb-php](https://github.com/linkorb/spicedb-php) ⭐ 3 | 🐛 0 | 🌐 PHP | 📅 2026-11-12 - HTTP client library in PHP
@@ -118,7 +118,7 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Official Tools
 
-* [zed](https://github.com/authzed/zed) ⭐ 168 | 🐛 57 | 🌐 Go | 📅 2026-11-20 - Official command-line tool for managing SpiceDB
+* [zed](https://github.com/authzed/zed) ⭐ 168 | 🐛 58 | 🌐 Go | 📅 2026-11-27 - Official command-line tool for managing SpiceDB
 * [SpiceDB Operator](https://github.com/authzed/spicedb-operator) ⭐ 108 | 🐛 38 | 🌐 Go | 📅 2026-11-09 - Official Kubernetes Operator for running SpiceDB
 * [Playground](https://play.authzed.com) - Official SpiceDB schema development environment
 * Thumper (proprietary) - Official load generation tool for SpiceDB
@@ -154,8 +154,8 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ### Third-party Integrations
 
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,801 | 🐛 449 | 🌐 TypeScript | 📅 2026-11-23 - GitPod's support for fine-grained authorization leverages SpiceDB
-* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,318 | 🐛 116 | 🌐 Shell | 📅 2026-11-26 - Container build toolchain that packages SpiceDB
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,800 | 🐛 449 | 🌐 TypeScript | 📅 2026-11-23 - GitPod's support for fine-grained authorization leverages SpiceDB
+* [wolfi-dev/os](https://github.com/wolfi-dev/os/blob/main/spicedb.yaml) ⭐ 1,318 | 🐛 118 | 🌐 Shell | 📅 2026-11-27 - Container build toolchain that packages SpiceDB
 * [raystack/frontier](https://github.com/raystack/frontier) ⭐ 345 | 🐛 56 | 🌐 Go | 📅 2026-11-25 - Cloud-native, role-based user management system and authorization server for your applications and API endpoints
 * [infratographer/permissions-api](https://github.com/infratographer/permissions-api) ⭐ 11 | 🐛 56 | 🌐 Go | 📅 2026-11-23 - The default authorization strategy for Infratographer leverages SpiceDB
 * [guicassolato/authorino-spicedb](https://github.com/guicassolato/authorino-spicedb) ⭐ 5 | 🐛 1 | 📅 2023-02-16 - Implementation of [Envoy external authz](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/ext_authz_filter) that can be driven by SpiceDB
@@ -180,4 +180,4 @@ Looking to contribute? See [CONTRIBUTING.md].
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
